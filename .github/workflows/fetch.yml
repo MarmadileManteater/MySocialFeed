@@ -18,16 +18,17 @@ jobs:
     - name: Add known hosts
       run: ssh-keyscan -H ${{ secrets.LINODE_IP_ADDRESS }} >> ~/.ssh/known_hosts
       
-    - name: 🎭 Use my linode as a proxy for programming.dev because they block connections from gh-actions agents 🤫
-      continue-on-error: true
-      run: |
-        # programming.dev blocks gh actions
-        mkdir lemmy/
-        ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} ' curl https://programming.dev/feeds/u/emma.xml?sort=New' | sed 's/Connection to ${{ secrets.LINODE_IP_ADDRESS }} closed.//' >> lemmy/feed.xml
-        npm i -g http-server
-        cd lemmy
+#    - name: 🎭 Use my linode as a proxy to avoid being blocked by sites that block gh-actions agents 🤫
+#      continue-on-error: true
+#      run: |
+#        # programming.dev blocks gh actions
+#        scp .
+#        ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} ' curl https://programming.dev/feeds/u/emma.xml?sort=New' | sed 's/Connection to ${{ secrets.LINODE_IP_ADDRESS }} closed.//' >> lemmy/feed.xml
+#        npm i -g http-server
+#        cd lemmy
         # create an http server to serve the content
-        npx http-server -p9000&
+#        npx http-server -p9000&
+
     - name: 🧶 Install deps
       run: |
         yarn
@@ -48,18 +49,35 @@ jobs:
     - name: 🔓 Allow executing SimpleRSSAggregator
       run: |
         chmod +x ./syndication_junction
+    - name: 🎭 Use my linode as a proxy to avoid being blocked by sites that block gh-actions agents 🤫
+      continue-on-error: true
+      run: |
+        # programming.dev blocks gh actions
+        scp -r . ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }}:~/my-social-feed
+
     - name: 🐶 Fetch feeds into db.json
       run: |
-        ./syndication_junction fetch https://marmadilemanteater.dev/blog/rss.xml https://gamemaking.social/@emma.rss http://127.0.0.1:9000/feed.xml https://opengameart.org/users/105608/art.xml https://itch.io/games/newest/by-marmadilemanteater.xml https://pxlmo.com/users/emma.atom
+        ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} 'cd ~/my-social-feed && ./syndication_junction fetch https://marmadilemanteater.dev/blog/rss.xml https://gamemaking.social/@emma.rss https://programming.dev/feeds/u/emma.xml?sort=New https://opengameart.org/users/105608/art.xml https://itch.io/games/newest/by-marmadilemanteater.xml https://pxlmo.com/users/emma.atom'
+        
     - name: 🖨 Output to RSS
       run: |
-        ./syndication_junction output-rss feed.xml https://raw.githubusercontent.com/MarmadileManteater/MySocialFeed/development
+        ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} 'cd ~/my-social-feed && ./syndication_junction output-rss feed.xml https://raw.githubusercontent.com/MarmadileManteater/MySocialFeed/development'
+
+    - name: ⬇ Download results from linode
+      run: |
+        scp -r ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }}:~/my-social-feed .
+
+    - name: 🧹 Clean up dir on my linode
+      run: |
+        ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} 'rm ~/my-social-feed'
+    
     - name: 📂 Create output dir
       run: |
         mkdir output
         cp feed.xml output
         cp -r media/ output
         cp db.json output
+        
     - uses: actions/upload-artifact@v3
       with:
         name: feed
