@@ -23,7 +23,7 @@ jobs:
       run: |
         # programming.dev blocks gh actions
         mkdir lemmy/
-        ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} ' curl https://programming.dev/feeds/u/emma.xml?sort=New' | sed 's/Connection to ${{ secrets.LINODE_IP_ADDRESS }} closed.//' | sed 's/// >> lemmy/feed.xml
+        ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} ' curl https://programming.dev/feeds/u/emma.xml?sort=New' | sed 's/Connection to ${{ secrets.LINODE_IP_ADDRESS }} closed.//' >> lemmy/feed.xml
         npm i -g http-server
         cd lemmy
         # create an http server to serve the content
