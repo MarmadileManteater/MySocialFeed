@@ -2,14 +2,7 @@
 const DomParser = require("dom-parser");
 const parser = new DomParser();
 
-function streamToString (stream) {
-  const chunks = [];
-  return new Promise((resolve, reject) => {
-    stream.on('data', (chunk) => chunks.push(Buffer.from(chunk)));
-    stream.on('error', (err) => reject(err));
-    stream.on('end', () => resolve(Buffer.concat(chunks).toString('utf8')));
-  })
-}
+const streamToString = require("./stream_to_string.js");
 
 (async function () {
   let input = await streamToString(process.stdin);
