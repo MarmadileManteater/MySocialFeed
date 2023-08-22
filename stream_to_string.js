@@ -13,9 +13,9 @@ function streamToString (stream) {
 // because they take effective ownership of everything you post there (even if they give you credit).
 // you can never delete "correct answers" there because they technically own your answer now and
 // you can't revoke that, so if you answer something and later realize you are wrong, you can't do anything
-// except accept bad karma or delete your account (if you change your answer you will be accused of "vandalism"),
-// and I realize the license is unrevokable, but posts on a website should be able to be unpublished 
-// even if the underlying content is unrevokably licensed.
+// except accept bad karma or delete your account (if you change your answer, you will be accused of "vandalism"),
+// and I realize the license is irrevocable, but posts on a website should be able to be unpublished 
+// even if the underlying content is irrevocably licensed.
 //
 // TLDR; fuck stackoverflow, as a platform, but massive ty to the person who posted 
 // this under CC-BY SA 4.0: Marlon Bernardes, and if I need to change this to my own 
