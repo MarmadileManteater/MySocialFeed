@@ -59,7 +59,7 @@ jobs:
 
     - name: ⬇ Download results from linode
       run: |
-        scp -r ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }}:~/my-social-feed .
+        scp -r ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }}:~/my-social-feed/* .
         ls -la
 
     - name: 🧹 Clean up dir on my linode
