@@ -69,7 +69,7 @@ jobs:
 
     - name: 🧹 Clean up dir on my linode
       run: |
-        ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} 'rm ~/my-social-feed'
+        ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} 'rm -rf ~/my-social-feed'
     
     - name: 📂 Create output dir
       run: |
