@@ -2,11 +2,12 @@
 name: Fetch updates
 
 on:
-  [push]
+  [workflow_dispatch]
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v3
     - name: ⬇ Download SimpleRSSAggregator artifact
       uses: dawidd6/action-download-artifact@v2
       with:
@@ -21,4 +22,17 @@ jobs:
         search_artifacts: false
         skip_unpack: false
         if_no_artifact_found: fail
-    - run: ls
+    - name: 🐶 Fetch feeds into db.json
+      run: |
+        ./syndication_junction fetch https://marmadilemanteater.dev/blog/rss.xml https://gamemaking.social/@emma.rss https://programming.dev/feeds/u/emma.xml?sort=New https://opengameart.org/users/105608/art.xml https://itch.io/games/newest/by-marmadilemanteater.xml https://pxlmo.com/users/emma.atom
+    - name: 🖨 Output to RSS
+      run: |
+        .\syndication_junction output-rss feed.xml https://raw.githubusercontent.com/MarmadileManteater/MySocialFeed/development
+    - name: 📝 Commit feed.xml back to the repo
+      run: |
+        git config --global user.name "gh actions bot"
+        git config --global user.email "gh-actions-bot[bot]@MarmadileManteater.github.io"
+        git add .
+        # Force the build to succeed, even if no files were changed
+        git commit -m 'Update files' || true
+        git push
