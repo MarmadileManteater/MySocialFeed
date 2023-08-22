@@ -40,7 +40,7 @@ jobs:
         workflow_conclusion: success
         branch: development
         path: ./
-        name: SimpleRSSAggregator
+        name: SimpleRSSAggregator-openssl1.1.1f 
         repo: MarmadileManteater/SimpleRSSAggregator
         check_artifacts:  false
         search_artifacts: false
