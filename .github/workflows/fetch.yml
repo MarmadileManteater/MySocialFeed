@@ -23,7 +23,7 @@ jobs:
       run: |
         # programming.dev blocks gh actions
         ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} ' curl https://programming.dev/feeds/u/emma.xml?sort=New' | sed 's/Connection to ${{ secrets.LINODE_IP_ADDRESS }} closed.//' >> lemmy.xml
-        echo lemmy.xml
+        cat lemmy.xml
     - name: 🧶 Install deps
       run: |
         yarn
