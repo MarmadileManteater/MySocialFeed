@@ -34,11 +34,15 @@ jobs:
     - name: 🖨 Output to RSS
       run: |
         ./syndication_junction output-rss feed.xml https://raw.githubusercontent.com/MarmadileManteater/MySocialFeed/development
-    - name: 📝 Commit feed.xml back to the repo
-      run: |
-        git config --global user.name "gh actions bot"
-        git config --global user.email "gh-actions-bot[bot]@MarmadileManteater.github.io"
-        git add .
-        # Force the build to succeed, even if no files were changed
-        git commit -m 'Update files' || true
-        git push
+    - uses: actions/upload-artifact@v3
+      with:
+        name: feed
+        path: feed.xml
+#    - name: 📝 Commit feed.xml back to the repo
+#      run: |
+#        git config --global user.name "gh actions bot"
+#        git config --global user.email "gh-actions-bot[bot]@MarmadileManteater.github.io"
+#        git add .
+#        # Force the build to succeed, even if no files were changed
+#        git commit -m 'Update files' || true
+#        git push
