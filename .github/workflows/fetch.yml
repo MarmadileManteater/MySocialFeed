@@ -8,7 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-
+    - name: testing what happens when I remove db
+      run: | 
+       rm db.json
     - name: 🏗 Install SSH Key
       uses: shimataro/ssh-key-action@v2
       with:
@@ -18,20 +20,10 @@ jobs:
     - name: Add known hosts
       run: ssh-keyscan -H ${{ secrets.LINODE_IP_ADDRESS }} >> ~/.ssh/known_hosts
       
-#    - name: 🎭 Use my linode as a proxy to avoid being blocked by sites that block gh-actions agents 🤫
-#      continue-on-error: true
-#      run: |
-#        # programming.dev blocks gh actions
-#        scp .
-#        ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} ' curl https://programming.dev/feeds/u/emma.xml?sort=New' | sed 's/Connection to ${{ secrets.LINODE_IP_ADDRESS }} closed.//' >> lemmy/feed.xml
-#        npm i -g http-server
-#        cd lemmy
-        # create an http server to serve the content
-#        npx http-server -p9000&
-
     - name: 🧶 Install deps
       run: |
         yarn
+        
     - name: ⬇ Download SimpleRSSAggregator artifact
       uses: dawidd6/action-download-artifact@v2
       with:
@@ -46,9 +38,11 @@ jobs:
         search_artifacts: false
         skip_unpack: false
         if_no_artifact_found: fail
+        
     - name: 🔓 Allow executing SimpleRSSAggregator
       run: |
         chmod +x ./syndication_junction
+        
     - name: 🎭 Use my linode as a proxy to avoid being blocked by sites that block gh-actions agents 🤫
       continue-on-error: true
       run: |
