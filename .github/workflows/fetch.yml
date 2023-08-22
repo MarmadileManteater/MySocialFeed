@@ -23,7 +23,7 @@ jobs:
       run: |
         # programming.dev blocks gh actions
         mkdir lemmy/
-        ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} ' curl https://programming.dev/feeds/u/emma.xml?sort=New' | sed 's/Connection to ${{ secrets.LINODE_IP_ADDRESS }} closed.//' >> lemmy/feed.xml
+        ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} ' curl https://programming.dev/feeds/u/emma.xml?sort=New' | sed 's/Connection to ${{ secrets.LINODE_IP_ADDRESS }} closed.//' | sed 's/// >> lemmy/feed.xml
         npm i -g http-server
         cd lemmy
         # create an http server to serve the content
@@ -59,6 +59,7 @@ jobs:
         mkdir output
         cp feed.xml output
         cp -r media/ output
+        cp db.json output
     - uses: actions/upload-artifact@v3
       with:
         name: feed
