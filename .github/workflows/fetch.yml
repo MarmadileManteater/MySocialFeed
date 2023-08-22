@@ -50,7 +50,7 @@ jobs:
         chmod +x ./syndication_junction
     - name: 🐶 Fetch feeds into db.json
       run: |
-        ./syndication_junction fetch https://marmadilemanteater.dev/blog/rss.xml https://gamemaking.social/@emma.rss http://127.0.0.1:9000 https://opengameart.org/users/105608/art.xml https://itch.io/games/newest/by-marmadilemanteater.xml https://pxlmo.com/users/emma.atom
+        ./syndication_junction fetch https://marmadilemanteater.dev/blog/rss.xml https://gamemaking.social/@emma.rss http://127.0.0.1:9000/feed.xml https://opengameart.org/users/105608/art.xml https://itch.io/games/newest/by-marmadilemanteater.xml https://pxlmo.com/users/emma.atom
     - name: 🖨 Output to RSS
       run: |
         ./syndication_junction output-rss feed.xml https://raw.githubusercontent.com/MarmadileManteater/MySocialFeed/development
