@@ -1,0 +1,24 @@
+
+name: Fetch updates
+
+on:
+  [push]
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+    - name: ⬇ Download SimpleRSSAggregator artifact
+      uses: dawidd6/action-download-artifact@v2
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        workflow: ci.yml
+        workflow_conclusion: success
+        branch: development
+        path: ./
+        name: SimpleRSSAggregator
+        repo: MarmadileManteater/SimpleRSSAggregator
+        check_artifacts:  false
+        search_artifacts: false
+        skip_unpack: false
+        if_no_artifact_found: fail
+    - run: ls
