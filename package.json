@@ -1,0 +1,8 @@
+{
+  "title": "input santisation",
+  "scripts": {},
+  "dependencies": {
+    "dom-parser": "^0.1.6",
+    "html-entities": "^2.4.0"
+  }
+}
