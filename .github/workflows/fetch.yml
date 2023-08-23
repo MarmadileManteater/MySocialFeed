@@ -2,16 +2,20 @@
 name: Fetch updates
 
 on:
-  [workflow_dispatch]
+  schedule:
+    - cron: "0 20 * * *"
+  workflow_dispatch:
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+    
     - name: testing what happens when I remove db
       run: | 
        rm db.json
        echo "ewogICJyc3MiOiB7CiAgICAiaHR0cHM6Ly9tYXJtYWRpbGVtYW50ZWF0ZXIuZGV2L2Jsb2cvcnNzLnhtbCI6IHsKICAgICAgInJzcyI6IHsKICAgICAgICAiY2hhbm5lbCI6IHsKICAgICAgICAgICJ0aXRsZSI6ICJFbW1hJ3MgQmxvZyEiLAogICAgICAgICAgImxpbmsiOiAiaHR0cHM6Ly9tYXJtYWRpbGVtYW50ZWF0ZXIuZGV2L2Jsb2cvIiwKICAgICAgICAgICJpdGVtIjogW10KICAgICAgICB9LAogICAgICAgICJAdmVyc2lvbiI6ICIyLjAiLAogICAgICAgICJAeG1sbnM6d2ViZmVlZHMiOiBudWxsLAogICAgICAgICJAeG1sbnM6bWVkaWEiOiBudWxsLAogICAgICAgICJAeG1sbnM6Y29udGVudCI6ICJodHRwOi8vcHVybC5vcmcvcnNzLzEuMC9tb2R1bGVzL2NvbnRlbnQvIgogICAgICB9LAogICAgICAibWFuaXB1bGF0ZV9pbnB1dCI6ICIiLAogICAgICAicmV0YWluX2FsbF9lbnRyaWVzIjogdHJ1ZSwKICAgICAgInRpdGxlIjogIkVtbWEgPE1hcm1hZGlsZU1hbnRlYXRlcj4iLAogICAgICAibGluayI6ICJodHRwczovL21hcm1hZGlsZW1hbnRlYXRlci5kZXYvYmxvZy8iCiAgICB9LAogICAgImh0dHBzOi8vaXRjaC5pby9nYW1lcy9uZXdlc3QvYnktbWFybWFkaWxlbWFudGVhdGVyLnhtbCI6IHsKICAgICAgInJzcyI6IHsKICAgICAgICAiY2hhbm5lbCI6IHsKICAgICAgICAgICJ0aXRsZSI6ICJMYXRlc3QgZ2FtZXMgYnkgRW1tYSAtIGl0Y2guaW8iLAogICAgICAgICAgImxpbmsiOiAiaHR0cHM6Ly9pdGNoLmlvL2dhbWVzL25ld2VzdC9ieS1tYXJtYWRpbGVtYW50ZWF0ZXIiLAogICAgICAgICAgIml0ZW0iOiBbXQogICAgICAgIH0sCiAgICAgICAgIkB2ZXJzaW9uIjogIjIuMCIsCiAgICAgICAgIkB4bWxuczp3ZWJmZWVkcyI6IG51bGwsCiAgICAgICAgIkB4bWxuczptZWRpYSI6IG51bGwsCiAgICAgICAgIkB4bWxuczpjb250ZW50IjogbnVsbAogICAgICB9LAogICAgICAibWFuaXB1bGF0ZV9pbnB1dCI6ICJub2RlIC4vaXRjaC5qcyIsCiAgICAgICJyZXRhaW5fYWxsX2VudHJpZXMiOiB0cnVlLAogICAgICAidGl0bGUiOiAiRW1tYSA8TWFybWFkaWxlTWFudGVhdGVyPiBvbiBpdGNoLmlvIiwKICAgICAgImxpbmsiOiAiaHR0cHM6Ly9tYXJtYWRpbGVtYW50ZWF0ZXIuaXRjaC5pbyIKICAgIH0sCiAgICAiaHR0cHM6Ly9wcm9ncmFtbWluZy5kZXYvZmVlZHMvdS9lbW1hLnhtbD9zb3J0PU5ldyI6IHsKICAgICAgInJzcyI6IHsKICAgICAgICAiY2hhbm5lbCI6IHsKICAgICAgICAgICJ0aXRsZSI6ICJwcm9ncmFtbWluZy5kZXYgLSBlbW1hIiwKICAgICAgICAgICJsaW5rIjogImh0dHBzOi8vcHJvZ3JhbW1pbmcuZGV2L3UvZW1tYSIsCiAgICAgICAgICAiaXRlbSI6IFtdCiAgICAgICAgfSwKICAgICAgICAiQHZlcnNpb24iOiAiMi4wIiwKICAgICAgICAiQHhtbG5zOndlYmZlZWRzIjogbnVsbCwKICAgICAgICAiQHhtbG5zOm1lZGlhIjogbnVsbCwKICAgICAgICAiQHhtbG5zOmNvbnRlbnQiOiBudWxsCiAgICAgIH0sCiAgICAgICJtYW5pcHVsYXRlX2lucHV0IjogIiIsCiAgICAgICJyZXRhaW5fYWxsX2VudHJpZXMiOiB0cnVlLAogICAgICAidGl0bGUiOiAiQGVtbWFAcHJvZ3JhbW1pbmcuZGV2IiwKICAgICAgImxpbmsiOiAiaHR0cHM6Ly9wcm9ncmFtbWluZy5kZXYvdS9lbW1hIgogICAgfSwKICAgICJodHRwczovL2dhbWVtYWtpbmcuc29jaWFsL0BlbW1hLnJzcyI6IHsKICAgICAgInJzcyI6IHsKICAgICAgICAiY2hhbm5lbCI6IHsKICAgICAgICAgICJ0aXRsZSI6ICJFbW1hIDxNYXJtYWRpbGVNYW50ZWF0ZXI+IiwKICAgICAgICAgICJsaW5rIjogImh0dHBzOi8vZ2FtZW1ha2luZy5zb2NpYWwvQGVtbWEiLAogICAgICAgICAgIml0ZW0iOiBbXQogICAgICAgIH0sCiAgICAgICAgIkB2ZXJzaW9uIjogIjIuMCIsCiAgICAgICAgIkB4bWxuczp3ZWJmZWVkcyI6ICJodHRwOi8vd2ViZmVlZHMub3JnL3Jzcy8xLjAiLAogICAgICAgICJAeG1sbnM6bWVkaWEiOiAiaHR0cDovL3NlYXJjaC55YWhvby5jb20vbXJzcy8iLAogICAgICAgICJAeG1sbnM6Y29udGVudCI6IG51bGwKICAgICAgfSwKICAgICAgIm1hbmlwdWxhdGVfaW5wdXQiOiAiIiwKICAgICAgInJldGFpbl9hbGxfZW50cmllcyI6IHRydWUsCiAgICAgICJ0aXRsZSI6ICJAZW1tYUBnYW1lbWFraW5nLnNvY2lhbCIsCiAgICAgICJsaW5rIjogImh0dHBzOi8vZ2FtZW1ha2luZy5zb2NpYWwvQGVtbWEiCiAgICB9LAogICAgImh0dHBzOi8vb3BlbmdhbWVhcnQub3JnL3VzZXJzLzEwNTYwOC9hcnQueG1sIjogewogICAgICAicnNzIjogewogICAgICAgICJjaGFubmVsIjogewogICAgICAgICAgInRpdGxlIjogIkFydCBieSBNYXJtYWRpbGVNYW50ZWF0ZXIiLAogICAgICAgICAgImxpbmsiOiAiaHR0cHM6Ly9vcGVuZ2FtZWFydC5vcmcvbGF0ZXN0LzEwNTYwOCIsCiAgICAgICAgICAiaXRlbSI6IFtdCiAgICAgICAgfSwKICAgICAgICAiQHZlcnNpb24iOiAiMi4wIiwKICAgICAgICAiQHhtbG5zOndlYmZlZWRzIjogbnVsbCwKICAgICAgICAiQHhtbG5zOm1lZGlhIjogbnVsbCwKICAgICAgICAiQHhtbG5zOmNvbnRlbnQiOiAiaHR0cDovL3B1cmwub3JnL3Jzcy8xLjAvbW9kdWxlcy9jb250ZW50LyIKICAgICAgfSwKICAgICAgIm1hbmlwdWxhdGVfaW5wdXQiOiAibm9kZSAuL29nYS5qcyIsCiAgICAgICJyZXRhaW5fYWxsX2VudHJpZXMiOiB0cnVlLAogICAgICAidGl0bGUiOiAiRW1tYSA8TWFybWFkaWxlTWFudGVhdGVyPiBvbiBPcGVuR2FtZUFydC5vcmciLAogICAgICAibGluayI6ICJodHRwczovL29wZW5nYW1lYXJ0Lm9yZy91c2Vycy9NYXJtYWRpbGVNYW50ZWF0ZXIiCiAgICB9LAogICAgImh0dHBzOi8vcHhsbW8uY29tL3VzZXJzL2VtbWEuYXRvbSI6IHsKICAgICAgInJzcyI6IHsKICAgICAgICAiY2hhbm5lbCI6IHsKICAgICAgICAgICJ0aXRsZSI6ICJlbW1hIG9uIFBpeGVsZmVkIiwKICAgICAgICAgICJsaW5rIjogImh0dHBzOi8vcHhsbW8uY29tL2VtbWEiLAogICAgICAgICAgIml0ZW0iOiBbXQogICAgICAgIH0sCiAgICAgICAgIkB2ZXJzaW9uIjogIjIuMCIsCiAgICAgICAgIkB4bWxuczp3ZWJmZWVkcyI6ICJodHRwOi8vd2ViZmVlZHMub3JnL3Jzcy8xLjAiLAogICAgICAgICJAeG1sbnM6bWVkaWEiOiAiaHR0cDovL3NlYXJjaC55YWhvby5jb20vbXJzcy8iLAogICAgICAgICJAeG1sbnM6Y29udGVudCI6ICJodHRwOi8vcHVybC5vcmcvcnNzLzEuMC9tb2R1bGVzL2NvbnRlbnQvIgogICAgICB9LAogICAgICAibWFuaXB1bGF0ZV9pbnB1dCI6ICIiLAogICAgICAicmV0YWluX2FsbF9lbnRyaWVzIjogdHJ1ZSwKICAgICAgInRpdGxlIjogIkBlbW1hQHB4bG1vLmNvbSIsCiAgICAgICJsaW5rIjogImh0dHBzOi8vcHhsbW8uY29tL2VtbWEiCiAgICB9CiAgfSwKICAib3V0cHV0X29uZV9jaGFubmVsIjogdHJ1ZSwKICAidGl0bGUiOiAiRW1tYSA8TWFybWFkaWxlTWFudGVhdGVyPiIsCiAgImxpbmsiOiAiIiwKICAiaW5jbHVkZV9kZXNjcmlwdGlvbl9hc190aXRsZV9pZl9ub25lX2dpdmVuIjogdHJ1ZSwKICAiZGVzY3JpcHRpb25fdGl0bGVfd29yZF9jb3VudCI6IDEwLAogICJ0aXRsZV9lbGxpcHNpcyI6ICIuLi4iLAogICJwb3B1bGF0ZV9jb250ZW50X2VuY29kZWQiOiB0cnVlLAogICJhZGRfbWVkaWFfdG9fY29udGVudF9lbmNvZGVkIjogdHJ1ZSwKICAibWF4X2VudHJpZXNfcHVibGlzaGVkIjogLTEsCiAgIm92ZXJyaWRlX2l0ZW1fYXV0aG9yIjogdHJ1ZQp9" | base64 --decode >> db.json
+    
     - name: 🏗 Install SSH Key
       uses: shimataro/ssh-key-action@v2
       with:
@@ -63,26 +67,15 @@ jobs:
         scp -r ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }}:~/my-social-feed/* .
         ls -la
 
-    #- name: 🧹 Clean up dir on my linode
-    #  run: |
-    #    ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} 'rm -rf ~/my-social-feed'
-    
-    - name: 📂 Create output dir
+    - name: 🧹 Clean up dir on my linode
       run: |
-        mkdir output
-        cp feed.xml output
-        cp -r media/ output
-        cp db.json output
-        
-    - uses: actions/upload-artifact@v3
-      with:
-        name: feed
-        path: output/
-#    - name: 📝 Commit feed.xml back to the repo
-#      run: |
-#        git config --global user.name "gh actions bot"
-#        git config --global user.email "gh-actions-bot[bot]@MarmadileManteater.github.io"
-#        git add .
-#        # Force the build to succeed, even if no files were changed
-#        git commit -m 'Update files' || true
-#        git push
+        ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} 'rm -rf ~/my-social-feed'
+    
+    - name: 📝 Commit feed.xml back to the repo
+      run: |
+        git config --global user.name "gh actions bot"
+        git config --global user.email "gh-actions-bot[bot]@MarmadileManteater.github.io"
+        git add feed.xml media/
+        # Force the build to succeed, even if no files were changed
+        git commit -m 'Update files' || true
+        git push
