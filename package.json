@@ -3,6 +3,7 @@
   "scripts": {},
   "dependencies": {
     "dom-parser": "^0.1.6",
-    "html-entities": "^2.4.0"
+    "html-entities": "^2.4.0",
+    "undici": "^5.23.0"
   }
 }
