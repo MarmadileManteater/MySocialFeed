@@ -730,7 +730,7 @@
         "@xmlns:media": "http://search.yahoo.com/mrss/",
         "@xmlns:content": "http://purl.org/rss/1.0/modules/content/"
       },
-      "manipulate_input": "",
+      "manipulate_input": "node ./pixelfed.js",
       "retain_all_entries": true,
       "title": "@emma@pxlmo.com",
       "link": "https://pxlmo.com/emma"
