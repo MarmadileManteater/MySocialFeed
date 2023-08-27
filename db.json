@@ -1,5 +1,204 @@
 {
   "rss": {
+    "https://opengameart.org/users/105608/art.xml": {
+      "rss": {
+        "channel": {
+          "title": "Art by MarmadileManteater",
+          "link": "https://opengameart.org/latest/105608",
+          "item": [
+            {
+              "guid": "144054 at https://opengameart.org",
+              "title": "Puny Autumn",
+              "plainTitle": null,
+              "imageurl": null,
+              "link": "https://opengameart.org/content/puny-autumn",
+              "description": "<div class=\"field field-name-field-art-type field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Art Type:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_type_tid%5B%5D=9\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">2D Art</a></div></div></div><div class=\"field field-name-field-art-tags field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Tags:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=16x16\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">16x16</a></div><div class=\"field-item odd\"><a href=\"/art-search-advanced?field_art_tags_tid=jrpg\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">jrpg</a></div><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=trees\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">trees</a></div><div class=\"field-item odd\"><a href=\"/art-search-advanced?field_art_tags_tid=autumn\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">autumn</a></div></div></div><div class=\"field field-name-field-art-licenses field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">License(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><div class='license-icon'><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank'><img src='https://opengameart.org/sites/default/files/license_images/cc0.png' alt='' title=''><div class='license-name'>CC0</div></a></div></div></div></div><div class=\"field field-name-field-art-preview field-type-file field-label-above\"><div class=\"field-label\">Preview:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/screenshot-1_5.png\" alt=\"screenshot-1.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/screenshot-1_5.png\" type=\"image/png; length=14447\" data-fid=\"201071\" target=\"_blank\" download=\"screenshot-1.png\">screenshot-1.png</a> 14.4 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-201071\">1</span> download(s)]</span></span></div></div></div><div class=\"field field-name-field-art-files field-type-file field-label-above\"><div class=\"field-label\">File(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/puny-autumn.png\" alt=\"puny-autumn.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/puny-autumn.png\" type=\"image/png; length=44607\" data-fid=\"201298\" target=\"_blank\" download=\"puny-autumn.png\">puny-autumn.png</a> 44.6 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-201298\">18</span> download(s)]</span></span></div></div></div>",
+              "author": null,
+              "pubDate": "Thu, 27 Oct 2022 22:17:21 +0000",
+              "createDate": null,
+              "updateDate": null,
+              "media:content": null,
+              "content:encoded": null
+            },
+            {
+              "guid": "142367 at https://opengameart.org",
+              "title": "Simple aliens with space ship",
+              "plainTitle": null,
+              "imageurl": null,
+              "link": "https://opengameart.org/content/simple-aliens-with-space-ship",
+              "description": "<div class=\"field field-name-field-art-type field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Art Type:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_type_tid%5B%5D=9\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">2D Art</a></div></div></div><div class=\"field field-name-field-art-tags field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Tags:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=16x16\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">16x16</a></div><div class=\"field-item odd\"><a href=\"/art-search-advanced?field_art_tags_tid=space\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">space</a></div><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=pico-8\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">pico-8</a></div></div></div><div class=\"field field-name-field-art-licenses field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">License(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><div class='license-icon'><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank'><img src='https://opengameart.org/sites/default/files/license_images/cc0.png' alt='' title=''><div class='license-name'>CC0</div></a></div></div></div></div><div class=\"field field-name-field-art-preview field-type-file field-label-above\"><div class=\"field-label\">Preview:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/16x16-space-ship-and-two-frame-alien-animation-preview.png\" alt=\"16x16-space-ship-and-two-frame-alien-animation-preview.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/16x16-space-ship-and-two-frame-alien-animation-preview.png\" type=\"image/png; length=1110\" data-fid=\"198891\" target=\"_blank\" download=\"16x16-space-ship-and-two-frame-alien-animation-preview.png\">16x16-space-ship-and-two-frame-alien-animation-preview.png</a> 1.1 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-198891\">1</span> download(s)]</span></span></div><div class=\"field-item odd\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/two-frame-alien-animation.gif\" alt=\"two-frame-alien-animation.gif\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/two-frame-alien-animation.gif\" type=\"image/gif; length=5167\" data-fid=\"198892\" target=\"_blank\" download=\"two-frame-alien-animation.gif\">two-frame-alien-animation.gif</a> 5.2 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-198892\">1</span> download(s)]</span></span></div></div></div><div class=\"field field-name-field-art-files field-type-file field-label-above\"><div class=\"field-label\">File(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/16x16-space-ship-and-two-frame-alien-animation.png\" alt=\"16x16-space-ship-and-two-frame-alien-animation.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/16x16-space-ship-and-two-frame-alien-animation.png\" type=\"image/png; length=488\" data-fid=\"198893\" target=\"_blank\" download=\"16x16-space-ship-and-two-frame-alien-animation.png\">16x16-space-ship-and-two-frame-alien-animation.png</a> 488 b <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-198893\">19</span> download(s)]</span></span></div></div></div>",
+              "author": null,
+              "pubDate": "Mon, 05 Sep 2022 05:08:07 +0000",
+              "createDate": null,
+              "updateDate": null,
+              "media:content": null,
+              "content:encoded": null
+            },
+            {
+              "guid": "142339 at https://opengameart.org",
+              "title": "Puny Trees",
+              "plainTitle": null,
+              "imageurl": null,
+              "link": "https://opengameart.org/content/puny-trees",
+              "description": "<div class=\"field field-name-field-art-type field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Art Type:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_type_tid%5B%5D=9\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">2D Art</a></div></div></div><div class=\"field field-name-field-art-tags field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Tags:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=16x16\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">16x16</a></div><div class=\"field-item odd\"><a href=\"/art-search-advanced?field_art_tags_tid=jrpg\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">jrpg</a></div><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=trees\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">trees</a></div></div></div><div class=\"field field-name-field-art-licenses field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">License(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><div class='license-icon'><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank'><img src='https://opengameart.org/sites/default/files/license_images/cc0.png' alt='' title=''><div class='license-name'>CC0</div></a></div></div></div></div><div class=\"field field-name-field-art-preview field-type-file field-label-above\"><div class=\"field-label\">Preview:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/preview3_22.png\" alt=\"preview3.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/preview3_22.png\" type=\"image/png; length=11298\" data-fid=\"198877\" target=\"_blank\" download=\"preview3.png\">preview3.png</a> 11.3 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-198877\">1</span> download(s)]</span></span></div><div class=\"field-item odd\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/puny-trees_0.png\" alt=\"puny-trees.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/puny-trees_0.png\" type=\"image/png; length=51461\" data-fid=\"198878\" target=\"_blank\" download=\"puny-trees.png\">puny-trees.png</a> 51.5 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-198878\">1</span> download(s)]</span></span></div></div></div><div class=\"field field-name-field-art-files field-type-file field-label-above\"><div class=\"field-label\">File(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/puny-trees-tileset.png\" alt=\"puny-trees-tileset.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/puny-trees-tileset.png\" type=\"image/png; length=1665\" data-fid=\"198863\" target=\"_blank\" download=\"puny-trees-tileset.png\">puny-trees-tileset.png</a> 1.7 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-198863\">137</span> download(s)]</span></span></div></div></div>",
+              "author": null,
+              "pubDate": "Sat, 03 Sep 2022 15:57:51 +0000",
+              "createDate": null,
+              "updateDate": null,
+              "media:content": null,
+              "content:encoded": null
+            }
+          ]
+        },
+        "@version": "2.0",
+        "@xmlns:webfeeds": null,
+        "@xmlns:media": null,
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/"
+      },
+      "manipulate_input": "node ./oga.js",
+      "retain_all_entries": true,
+      "title": "Emma <MarmadileManteater> on OpenGameArt.org",
+      "link": "https://opengameart.org/users/MarmadileManteater"
+    },
+    "https://pxlmo.com/users/emma.atom": {
+      "rss": {
+        "channel": {
+          "title": "emma on Pixelfed",
+          "link": "https://pxlmo.com/emma",
+          "item": [
+            {
+              "guid": "https://pxlmo.com/p/emma/598284450851876393",
+              "title": "in case of mouse-related emergency, open packaging",
+              "plainTitle": "in case of mouse-related emergency, open packaging",
+              "imageurl": null,
+              "link": "https://pxlmo.com/p/emma/598284450851876393",
+              "description": "in case of mouse-related emergency, open packaging",
+              "author": {
+                "name": "emma",
+                "uri": "https://pxlmo.com/emma"
+              },
+              "pubDate": "Fri, 18 Aug 2023 22:48:48 +0000",
+              "createDate": null,
+              "updateDate": "Fri, 18 Aug 2023 22:48:48 +0000",
+              "media:content": [
+                {
+                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/HrIBVl2aSoYg/xZMdYxhYS6bQTT1FrDbTHQMjuc5zaLbn4D6fwfGN.jpg",
+                  "media:description": null,
+                  "@type": "image/jpeg",
+                  "@fileSize": null,
+                  "@medium": "image"
+                }
+              ],
+              "content:encoded": "\n\t\t\t<img id=\"rss_item_598284450851876393\" src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/HrIBVl2aSoYg/xZMdYxhYS6bQTT1FrDbTHQMjuc5zaLbn4D6fwfGN.jpg\" alt=\"a computer mouse in its packaging hung on the wall with the words &quot;In case of mouse-related emergency&quot; above it and the words &quot;open packaging&quot; below it\">\n\t\t\t<p style=\"padding:10px;\">in case of mouse-related emergency, open packaging</p>\n\t\t\t"
+            },
+            {
+              "guid": "https://pxlmo.com/p/emma/501531556242242085",
+              "title": "I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really #cute in this dress. #GenderEuphoria #HappyPost #FeltCuteMightDelete",
+              "plainTitle": "I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really #cute in this dress. #GenderEuphoria #HappyPost #FeltCuteMightDelete",
+              "imageurl": null,
+              "link": "https://pxlmo.com/p/emma/501531556242242085",
+              "description": "I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really <a href=\"https://pxlmo.com/discover/tags/cute?src=hash\" title=\"#cute\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#cute</a> in this dress. <a href=\"https://pxlmo.com/discover/tags/GenderEuphoria?src=hash\" title=\"#GenderEuphoria\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#GenderEuphoria</a> <a href=\"https://pxlmo.com/discover/tags/HappyPost?src=hash\" title=\"#HappyPost\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#HappyPost</a> <a href=\"https://pxlmo.com/discover/tags/FeltCuteMightDelete?src=hash\" title=\"#FeltCuteMightDelete\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#FeltCuteMightDelete</a>",
+              "author": {
+                "name": "emma",
+                "uri": "https://pxlmo.com/emma"
+              },
+              "pubDate": "Fri, 25 Nov 2022 04:07:21 +0000",
+              "createDate": null,
+              "updateDate": "Fri, 25 Nov 2022 04:07:21 +0000",
+              "media:content": [
+                {
+                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/a48ad3dc0-89cf68/rUM3BANwGAOu/4bSh7Iwev3vTLUXMTvOp0FlHJbkNBG5hLa1h6fRq.jpg",
+                  "media:description": null,
+                  "@type": "image/jpeg",
+                  "@fileSize": null,
+                  "@medium": "image"
+                },
+                {
+                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/a48ad3dc0-89cf68/NLuJxpJxYiah/j48W4X97k4WjCOZvqmUIWDEotKnTBNzl8wMKHY6x.jpg",
+                  "media:description": null,
+                  "@type": "image/jpeg",
+                  "@fileSize": null,
+                  "@medium": "image"
+                }
+              ],
+              "content:encoded": "\n\t\t\t<img id=\"rss_item_501531556242242085\" src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/a48ad3dc0-89cf68/rUM3BANwGAOu/4bSh7Iwev3vTLUXMTvOp0FlHJbkNBG5hLa1h6fRq.jpg\" alt=\"a young woman in a dress with her red hair covering her face\"> <img src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/a48ad3dc0-89cf68/NLuJxpJxYiah/j48W4X97k4WjCOZvqmUIWDEotKnTBNzl8wMKHY6x.jpg\" alt=\"a young woman in a dress and a cardigan with her red hair covering her face\" />\n\t\t\t<p style=\"padding:10px;\">I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really <a href=\"https://pxlmo.com/discover/tags/cute?src=hash\" title=\"#cute\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#cute</a> in this dress. <a href=\"https://pxlmo.com/discover/tags/GenderEuphoria?src=hash\" title=\"#GenderEuphoria\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#GenderEuphoria</a> <a href=\"https://pxlmo.com/discover/tags/HappyPost?src=hash\" title=\"#HappyPost\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#HappyPost</a> <a href=\"https://pxlmo.com/discover/tags/FeltCuteMightDelete?src=hash\" title=\"#FeltCuteMightDelete\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#FeltCuteMightDelete</a></p>\n\t\t\t"
+            },
+            {
+              "guid": "https://pxlmo.com/p/emma/600288525627715122",
+              "title": "my apartment complex is having some work done on the parking lots, and 🤷‍♀️ i guess they forgot to pick up this water bottle before they started",
+              "plainTitle": "my apartment complex is having some work done on the parking lots, and 🤷‍♀️ i guess they forgot to pick up this water bottle before they started",
+              "imageurl": null,
+              "link": "https://pxlmo.com/p/emma/600288525627715122",
+              "description": "my apartment complex is having some work done on the parking lots, and 🤷‍♀️ i guess they forgot to pick up this water bottle before they started",
+              "author": {
+                "name": "emma",
+                "uri": "https://pxlmo.com/emma"
+              },
+              "pubDate": "Thu, 24 Aug 2023 11:32:17 +0000",
+              "createDate": null,
+              "updateDate": "Thu, 24 Aug 2023 11:32:17 +0000",
+              "media:content": [
+                {
+                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/mB8XgqaBvYT9/Y5SV7FjJaNwJrYeudslpIpcs9KyMI2D5ILgaZqjR.jpg",
+                  "media:description": null,
+                  "@type": "image/jpeg",
+                  "@fileSize": null,
+                  "@medium": "image"
+                },
+                {
+                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/KCBVOeXkgeST/6AkgChQztubcgXsihZh9uaLC7LttzX4VwJ6GxbHZ.jpg",
+                  "media:description": null,
+                  "@type": "image/jpeg",
+                  "@fileSize": null,
+                  "@medium": "image"
+                }
+              ],
+              "content:encoded": "\n\t\t\t<img id=\"rss_item_600288525627715122\" src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/mB8XgqaBvYT9/Y5SV7FjJaNwJrYeudslpIpcs9KyMI2D5ILgaZqjR.jpg\" alt=\"a water bottle is covered in asphalt in a parking lot next to a sidewalk\"> <img src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/KCBVOeXkgeST/6AkgChQztubcgXsihZh9uaLC7LttzX4VwJ6GxbHZ.jpg\" alt=\"null\" />\n\t\t\t<p style=\"padding:10px;\">my apartment complex is having some work done on the parking lots, and 🤷‍♀️ i guess they forgot to pick up this water bottle before they started</p>\n\t\t\t"
+            }
+          ]
+        },
+        "@version": "2.0",
+        "@xmlns:webfeeds": "http://webfeeds.org/rss/1.0",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/"
+      },
+      "manipulate_input": "node ./pixelfed.js",
+      "retain_all_entries": true,
+      "title": "@emma@pxlmo.com",
+      "link": "https://pxlmo.com/emma"
+    },
+    "https://programming.dev/feeds/u/emma.xml?sort=New": {
+      "rss": {
+        "channel": {
+          "title": "programming.dev - emma",
+          "link": "https://programming.dev/u/emma",
+          "item": [
+            {
+              "guid": "https://programming.dev/post/929081",
+              "title": "How Was I Supposed to Know My Roommate Was a Dimension Hopping Witch!? - my submission for Summer Fediverse Jam",
+              "plainTitle": null,
+              "imageurl": null,
+              "link": "https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch",
+              "description": "submitted by <a href=\"https://programming.dev/u/emma\">emma</a> to <a href=\"https://programming.dev/c/play_my_game\">play_my_game</a><br>7 points | <a href=\"https://programming.dev/post/929081\">1 comments</a><br><a href=\"https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch\">https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch</a><p>This is a game about being roommates. Awake and face your day along side the person who shares your living space!</p>\n<p><img src=\"https://programming.dev/pictrs/image/ecfc7da5-2802-43b3-82c1-8c6eabedfd56.png\" alt=\"\" /></p>\n",
+              "author": null,
+              "pubDate": "Tue, 25 Jul 2023 12:27:19 +0000",
+              "createDate": null,
+              "updateDate": null,
+              "media:content": null,
+              "content:encoded": null
+            }
+          ]
+        },
+        "@version": "2.0",
+        "@xmlns:webfeeds": null,
+        "@xmlns:media": null,
+        "@xmlns:content": null
+      },
+      "manipulate_input": "",
+      "retain_all_entries": true,
+      "title": "@emma@programming.dev",
+      "link": "https://programming.dev/u/emma"
+    },
     "https://marmadilemanteater.dev/blog/rss.xml": {
       "rss": {
         "channel": {
@@ -105,38 +304,6 @@
       "retain_all_entries": true,
       "title": "Emma <MarmadileManteater> on itch.io",
       "link": "https://marmadilemanteater.itch.io"
-    },
-    "https://programming.dev/feeds/u/emma.xml?sort=New": {
-      "rss": {
-        "channel": {
-          "title": "programming.dev - emma",
-          "link": "https://programming.dev/u/emma",
-          "item": [
-            {
-              "guid": "https://programming.dev/post/929081",
-              "title": "How Was I Supposed to Know My Roommate Was a Dimension Hopping Witch!? - my submission for Summer Fediverse Jam",
-              "plainTitle": null,
-              "imageurl": null,
-              "link": "https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch",
-              "description": "submitted by <a href=\"https://programming.dev/u/emma\">emma</a> to <a href=\"https://programming.dev/c/play_my_game\">play_my_game</a><br>7 points | <a href=\"https://programming.dev/post/929081\">1 comments</a><br><a href=\"https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch\">https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch</a><p>This is a game about being roommates. Awake and face your day along side the person who shares your living space!</p>\n<p><img src=\"https://programming.dev/pictrs/image/ecfc7da5-2802-43b3-82c1-8c6eabedfd56.png\" alt=\"\" /></p>\n",
-              "author": null,
-              "pubDate": "Tue, 25 Jul 2023 12:27:19 +0000",
-              "createDate": null,
-              "updateDate": null,
-              "media:content": null,
-              "content:encoded": null
-            }
-          ]
-        },
-        "@version": "2.0",
-        "@xmlns:webfeeds": null,
-        "@xmlns:media": null,
-        "@xmlns:content": null
-      },
-      "manipulate_input": "",
-      "retain_all_entries": true,
-      "title": "@emma@programming.dev",
-      "link": "https://programming.dev/u/emma"
     },
     "https://gamemaking.social/@emma.rss": {
       "rss": {
@@ -606,134 +773,6 @@
       "retain_all_entries": true,
       "title": "@emma@gamemaking.social",
       "link": "https://gamemaking.social/@emma"
-    },
-    "https://opengameart.org/users/105608/art.xml": {
-      "rss": {
-        "channel": {
-          "title": "Art by MarmadileManteater",
-          "link": "https://opengameart.org/latest/105608",
-          "item": [
-            {
-              "guid": "144054 at https://opengameart.org",
-              "title": "Puny Autumn",
-              "plainTitle": null,
-              "imageurl": null,
-              "link": "https://opengameart.org/content/puny-autumn",
-              "description": "<div class=\"field field-name-field-art-type field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Art Type:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_type_tid%5B%5D=9\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">2D Art</a></div></div></div><div class=\"field field-name-field-art-tags field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Tags:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=16x16\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">16x16</a></div><div class=\"field-item odd\"><a href=\"/art-search-advanced?field_art_tags_tid=jrpg\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">jrpg</a></div><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=trees\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">trees</a></div><div class=\"field-item odd\"><a href=\"/art-search-advanced?field_art_tags_tid=autumn\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">autumn</a></div></div></div><div class=\"field field-name-field-art-licenses field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">License(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><div class='license-icon'><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank'><img src='https://opengameart.org/sites/default/files/license_images/cc0.png' alt='' title=''><div class='license-name'>CC0</div></a></div></div></div></div><div class=\"field field-name-field-art-preview field-type-file field-label-above\"><div class=\"field-label\">Preview:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/screenshot-1_5.png\" alt=\"screenshot-1.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/screenshot-1_5.png\" type=\"image/png; length=14447\" data-fid=\"201071\" target=\"_blank\" download=\"screenshot-1.png\">screenshot-1.png</a> 14.4 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-201071\">1</span> download(s)]</span></span></div></div></div><div class=\"field field-name-field-art-files field-type-file field-label-above\"><div class=\"field-label\">File(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/puny-autumn.png\" alt=\"puny-autumn.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/puny-autumn.png\" type=\"image/png; length=44607\" data-fid=\"201298\" target=\"_blank\" download=\"puny-autumn.png\">puny-autumn.png</a> 44.6 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-201298\">18</span> download(s)]</span></span></div></div></div>",
-              "author": null,
-              "pubDate": "Thu, 27 Oct 2022 22:17:21 +0000",
-              "createDate": null,
-              "updateDate": null,
-              "media:content": null,
-              "content:encoded": null
-            },
-            {
-              "guid": "142367 at https://opengameart.org",
-              "title": "Simple aliens with space ship",
-              "plainTitle": null,
-              "imageurl": null,
-              "link": "https://opengameart.org/content/simple-aliens-with-space-ship",
-              "description": "<div class=\"field field-name-field-art-type field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Art Type:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_type_tid%5B%5D=9\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">2D Art</a></div></div></div><div class=\"field field-name-field-art-tags field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Tags:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=16x16\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">16x16</a></div><div class=\"field-item odd\"><a href=\"/art-search-advanced?field_art_tags_tid=space\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">space</a></div><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=pico-8\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">pico-8</a></div></div></div><div class=\"field field-name-field-art-licenses field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">License(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><div class='license-icon'><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank'><img src='https://opengameart.org/sites/default/files/license_images/cc0.png' alt='' title=''><div class='license-name'>CC0</div></a></div></div></div></div><div class=\"field field-name-field-art-preview field-type-file field-label-above\"><div class=\"field-label\">Preview:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/16x16-space-ship-and-two-frame-alien-animation-preview.png\" alt=\"16x16-space-ship-and-two-frame-alien-animation-preview.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/16x16-space-ship-and-two-frame-alien-animation-preview.png\" type=\"image/png; length=1110\" data-fid=\"198891\" target=\"_blank\" download=\"16x16-space-ship-and-two-frame-alien-animation-preview.png\">16x16-space-ship-and-two-frame-alien-animation-preview.png</a> 1.1 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-198891\">1</span> download(s)]</span></span></div><div class=\"field-item odd\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/two-frame-alien-animation.gif\" alt=\"two-frame-alien-animation.gif\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/two-frame-alien-animation.gif\" type=\"image/gif; length=5167\" data-fid=\"198892\" target=\"_blank\" download=\"two-frame-alien-animation.gif\">two-frame-alien-animation.gif</a> 5.2 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-198892\">1</span> download(s)]</span></span></div></div></div><div class=\"field field-name-field-art-files field-type-file field-label-above\"><div class=\"field-label\">File(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/16x16-space-ship-and-two-frame-alien-animation.png\" alt=\"16x16-space-ship-and-two-frame-alien-animation.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/16x16-space-ship-and-two-frame-alien-animation.png\" type=\"image/png; length=488\" data-fid=\"198893\" target=\"_blank\" download=\"16x16-space-ship-and-two-frame-alien-animation.png\">16x16-space-ship-and-two-frame-alien-animation.png</a> 488 b <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-198893\">19</span> download(s)]</span></span></div></div></div>",
-              "author": null,
-              "pubDate": "Mon, 05 Sep 2022 05:08:07 +0000",
-              "createDate": null,
-              "updateDate": null,
-              "media:content": null,
-              "content:encoded": null
-            },
-            {
-              "guid": "142339 at https://opengameart.org",
-              "title": "Puny Trees",
-              "plainTitle": null,
-              "imageurl": null,
-              "link": "https://opengameart.org/content/puny-trees",
-              "description": "<div class=\"field field-name-field-art-type field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Art Type:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_type_tid%5B%5D=9\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">2D Art</a></div></div></div><div class=\"field field-name-field-art-tags field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Tags:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=16x16\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">16x16</a></div><div class=\"field-item odd\"><a href=\"/art-search-advanced?field_art_tags_tid=jrpg\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">jrpg</a></div><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=trees\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">trees</a></div></div></div><div class=\"field field-name-field-art-licenses field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">License(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><div class='license-icon'><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank'><img src='https://opengameart.org/sites/default/files/license_images/cc0.png' alt='' title=''><div class='license-name'>CC0</div></a></div></div></div></div><div class=\"field field-name-field-art-preview field-type-file field-label-above\"><div class=\"field-label\">Preview:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/preview3_22.png\" alt=\"preview3.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/preview3_22.png\" type=\"image/png; length=11298\" data-fid=\"198877\" target=\"_blank\" download=\"preview3.png\">preview3.png</a> 11.3 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-198877\">1</span> download(s)]</span></span></div><div class=\"field-item odd\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/puny-trees_0.png\" alt=\"puny-trees.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/puny-trees_0.png\" type=\"image/png; length=51461\" data-fid=\"198878\" target=\"_blank\" download=\"puny-trees.png\">puny-trees.png</a> 51.5 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-198878\">1</span> download(s)]</span></span></div></div></div><div class=\"field field-name-field-art-files field-type-file field-label-above\"><div class=\"field-label\">File(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/puny-trees-tileset.png\" alt=\"puny-trees-tileset.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/puny-trees-tileset.png\" type=\"image/png; length=1665\" data-fid=\"198863\" target=\"_blank\" download=\"puny-trees-tileset.png\">puny-trees-tileset.png</a> 1.7 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-198863\">136</span> download(s)]</span></span></div></div></div>",
-              "author": null,
-              "pubDate": "Sat, 03 Sep 2022 15:57:51 +0000",
-              "createDate": null,
-              "updateDate": null,
-              "media:content": null,
-              "content:encoded": null
-            }
-          ]
-        },
-        "@version": "2.0",
-        "@xmlns:webfeeds": null,
-        "@xmlns:media": null,
-        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/"
-      },
-      "manipulate_input": "node ./oga.js",
-      "retain_all_entries": true,
-      "title": "Emma <MarmadileManteater> on OpenGameArt.org",
-      "link": "https://opengameart.org/users/MarmadileManteater"
-    },
-    "https://pxlmo.com/users/emma.atom": {
-      "rss": {
-        "channel": {
-          "title": "emma on Pixelfed",
-          "link": "https://pxlmo.com/emma",
-          "item": [
-            {
-              "guid": "https://pxlmo.com/p/emma/598284450851876393",
-              "title": "in case of mouse-related emergency, open packaging",
-              "plainTitle": "in case of mouse-related emergency, open packaging",
-              "imageurl": null,
-              "link": "https://pxlmo.com/p/emma/598284450851876393",
-              "description": "in case of mouse-related emergency, open packaging",
-              "author": {
-                "name": "emma",
-                "uri": "https://pxlmo.com/emma"
-              },
-              "pubDate": "Fri, 18 Aug 2023 22:48:48 +0000",
-              "createDate": null,
-              "updateDate": "Fri, 18 Aug 2023 22:48:48 +0000",
-              "media:content": [
-                {
-                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/HrIBVl2aSoYg/xZMdYxhYS6bQTT1FrDbTHQMjuc5zaLbn4D6fwfGN.jpg",
-                  "media:description": null,
-                  "@type": "image/jpeg",
-                  "@fileSize": null,
-                  "@medium": "image"
-                }
-              ],
-              "content:encoded": "\n\t\t\t<img id=\"rss_item_598284450851876393\" src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/HrIBVl2aSoYg/xZMdYxhYS6bQTT1FrDbTHQMjuc5zaLbn4D6fwfGN.jpg\" alt=\"a computer mouse in its packaging hung on the wall with the words &quot;In case of mouse-related emergency&quot; above it and the words &quot;open packaging&quot; below it\">\n\t\t\t<p style=\"padding:10px;\">in case of mouse-related emergency, open packaging</p>\n\t\t\t"
-            },
-            {
-              "guid": "https://pxlmo.com/p/emma/501531556242242085",
-              "title": "I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really #cute in this dress. #GenderEuphoria #HappyPost #FeltCuteMightDelete",
-              "plainTitle": "I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really #cute in this dress. #GenderEuphoria #HappyPost #FeltCuteMightDelete",
-              "imageurl": null,
-              "link": "https://pxlmo.com/p/emma/501531556242242085",
-              "description": "I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really <a href=\"https://pxlmo.com/discover/tags/cute?src=hash\" title=\"#cute\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#cute</a> in this dress. <a href=\"https://pxlmo.com/discover/tags/GenderEuphoria?src=hash\" title=\"#GenderEuphoria\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#GenderEuphoria</a> <a href=\"https://pxlmo.com/discover/tags/HappyPost?src=hash\" title=\"#HappyPost\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#HappyPost</a> <a href=\"https://pxlmo.com/discover/tags/FeltCuteMightDelete?src=hash\" title=\"#FeltCuteMightDelete\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#FeltCuteMightDelete</a>",
-              "author": {
-                "name": "emma",
-                "uri": "https://pxlmo.com/emma"
-              },
-              "pubDate": "Fri, 25 Nov 2022 04:07:21 +0000",
-              "createDate": null,
-              "updateDate": "Fri, 25 Nov 2022 04:07:21 +0000",
-              "media:content": [
-                {
-                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/a48ad3dc0-89cf68/rUM3BANwGAOu/4bSh7Iwev3vTLUXMTvOp0FlHJbkNBG5hLa1h6fRq.jpg",
-                  "media:description": null,
-                  "@type": "image/jpeg",
-                  "@fileSize": null,
-                  "@medium": "image"
-                }
-              ],
-              "content:encoded": "\n\t\t\t<img id=\"rss_item_501531556242242085\" src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/a48ad3dc0-89cf68/rUM3BANwGAOu/4bSh7Iwev3vTLUXMTvOp0FlHJbkNBG5hLa1h6fRq.jpg\" alt=\"a young woman in a dress with her red hair covering her face\">\n\t\t\t<p style=\"padding:10px;\">I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really <a href=\"https://pxlmo.com/discover/tags/cute?src=hash\" title=\"#cute\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#cute</a> in this dress. <a href=\"https://pxlmo.com/discover/tags/GenderEuphoria?src=hash\" title=\"#GenderEuphoria\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#GenderEuphoria</a> <a href=\"https://pxlmo.com/discover/tags/HappyPost?src=hash\" title=\"#HappyPost\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#HappyPost</a> <a href=\"https://pxlmo.com/discover/tags/FeltCuteMightDelete?src=hash\" title=\"#FeltCuteMightDelete\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#FeltCuteMightDelete</a></p>\n\t\t\t"
-            }
-          ]
-        },
-        "@version": "2.0",
-        "@xmlns:webfeeds": "http://webfeeds.org/rss/1.0",
-        "@xmlns:media": "http://search.yahoo.com/mrss/",
-        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/"
-      },
-      "manipulate_input": "node ./pixelfed.js",
-      "retain_all_entries": true,
-      "title": "@emma@pxlmo.com",
-      "link": "https://pxlmo.com/emma"
     }
   },
   "output_one_channel": true,
