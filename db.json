@@ -1,5 +1,65 @@
 {
   "rss": {
+    "https://itch.io/games/newest/by-marmadilemanteater.xml": {
+      "rss": {
+        "channel": {
+          "title": "Latest games by Emma - itch.io",
+          "link": "https://itch.io/games/newest/by-marmadilemanteater",
+          "item": [
+            {
+              "guid": "https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch",
+              "title": "How Was I Supposed to Know My Roommate Was a Dimension Hopping Witch!? [Free] [Role Playing] [Windows] [Android]",
+              "plainTitle": "How Was I Supposed to Know My Roommate Was a Dimension Hopping Witch!?",
+              "imageurl": "https://img.itch.zone/aW1nLzEyODkzODE3LnBuZw==/315x250%23c/TZlzHP.png",
+              "link": "https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch",
+              "description": "This is a game about being roommates. Awake and face your day along side the person who shares your living space!\n<br/><br/> <img alt=\"How Was I Supposed to Know My Roommate Was a Dimension Hopping Witch!?\" src=\"https://img.itch.zone/aW1nLzEyODkzODE3LnBuZw==/315x250%23c/TZlzHP.png\"/>",
+              "author": null,
+              "pubDate": "Sun, 23 Jul 2023 04:41:19 GMT",
+              "createDate": "Sun, 23 Jul 2023 04:41:19 GMT",
+              "updateDate": "Mon, 31 Jul 2023 15:30:01 GMT",
+              "media:content": null,
+              "content:encoded": null
+            },
+            {
+              "guid": "https://marmadilemanteater.itch.io/what-is-hiding-in-the-dark",
+              "title": "What Is Hiding In The Dark [Free] [Other] [Windows]",
+              "plainTitle": "What Is Hiding In The Dark",
+              "imageurl": "https://img.itch.zone/aW1nLzEwMzQ0NjM1LnBuZw==/315x250%23c/eQ0Ugs.png",
+              "link": "https://marmadilemanteater.itch.io/what-is-hiding-in-the-dark",
+              "description": "This is a game about answering the door and keeping yourself occupied.\n<br/><br/> <img alt=\"What Is Hiding In The Dark\" src=\"https://img.itch.zone/aW1nLzEwMzQ0NjM1LnBuZw==/315x250%23c/eQ0Ugs.png\"/>",
+              "author": null,
+              "pubDate": "Sun, 23 Oct 2022 15:50:40 GMT",
+              "createDate": "Sun, 23 Oct 2022 15:50:40 GMT",
+              "updateDate": "Sat, 29 Oct 2022 11:39:48 GMT",
+              "media:content": null,
+              "content:encoded": null
+            },
+            {
+              "guid": "https://marmadilemanteater.itch.io/the-very-thirsty-plant-the-labyrinth-of-ghosts",
+              "title": "The Very Thirsty Plant & the Labyrinth of Ghosts [Free] [Windows]",
+              "plainTitle": "The Very Thirsty Plant & the Labyrinth of Ghosts",
+              "imageurl": "https://img.itch.zone/aW1nLzk4NzcyODUucG5n/315x250%23c/m1WJNB.png",
+              "link": "https://marmadilemanteater.itch.io/the-very-thirsty-plant-the-labyrinth-of-ghosts",
+              "description": "This is a game about retrieving water for a plant.\n<br/><br/> <img alt=\"The Very Thirsty Plant &amp; the Labyrinth of Ghosts\" src=\"https://img.itch.zone/aW1nLzk4NzcyODUucG5n/315x250%23c/m1WJNB.png\"/>",
+              "author": null,
+              "pubDate": "Sun, 21 Aug 2022 05:10:36 GMT",
+              "createDate": "Sun, 21 Aug 2022 05:10:36 GMT",
+              "updateDate": "Sun, 28 Aug 2022 22:35:02 GMT",
+              "media:content": null,
+              "content:encoded": null
+            }
+          ]
+        },
+        "@version": "2.0",
+        "@xmlns:webfeeds": null,
+        "@xmlns:media": null,
+        "@xmlns:content": null
+      },
+      "manipulate_input": "node ./itch.js",
+      "retain_all_entries": true,
+      "title": "Emma <MarmadileManteater> on itch.io",
+      "link": "https://marmadilemanteater.itch.io"
+    },
     "https://opengameart.org/users/105608/art.xml": {
       "rss": {
         "channel": {
@@ -59,6 +119,38 @@
       "retain_all_entries": true,
       "title": "Emma <MarmadileManteater> on OpenGameArt.org",
       "link": "https://opengameart.org/users/MarmadileManteater"
+    },
+    "https://programming.dev/feeds/u/emma.xml?sort=New": {
+      "rss": {
+        "channel": {
+          "title": "programming.dev - emma",
+          "link": "https://programming.dev/u/emma",
+          "item": [
+            {
+              "guid": "https://programming.dev/post/929081",
+              "title": "How Was I Supposed to Know My Roommate Was a Dimension Hopping Witch!? - my submission for Summer Fediverse Jam",
+              "plainTitle": null,
+              "imageurl": null,
+              "link": "https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch",
+              "description": "submitted by <a href=\"https://programming.dev/u/emma\">emma</a> to <a href=\"https://programming.dev/c/play_my_game\">play_my_game</a><br>7 points | <a href=\"https://programming.dev/post/929081\">1 comments</a><br><a href=\"https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch\">https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch</a><p>This is a game about being roommates. Awake and face your day along side the person who shares your living space!</p>\n<p><img src=\"https://programming.dev/pictrs/image/ecfc7da5-2802-43b3-82c1-8c6eabedfd56.png\" alt=\"\" /></p>\n",
+              "author": null,
+              "pubDate": "Tue, 25 Jul 2023 12:27:19 +0000",
+              "createDate": null,
+              "updateDate": null,
+              "media:content": null,
+              "content:encoded": null
+            }
+          ]
+        },
+        "@version": "2.0",
+        "@xmlns:webfeeds": null,
+        "@xmlns:media": null,
+        "@xmlns:content": null
+      },
+      "manipulate_input": "",
+      "retain_all_entries": true,
+      "title": "@emma@programming.dev",
+      "link": "https://programming.dev/u/emma"
     },
     "https://pxlmo.com/users/emma.atom": {
       "rss": {
@@ -167,38 +259,6 @@
       "title": "@emma@pxlmo.com",
       "link": "https://pxlmo.com/emma"
     },
-    "https://programming.dev/feeds/u/emma.xml?sort=New": {
-      "rss": {
-        "channel": {
-          "title": "programming.dev - emma",
-          "link": "https://programming.dev/u/emma",
-          "item": [
-            {
-              "guid": "https://programming.dev/post/929081",
-              "title": "How Was I Supposed to Know My Roommate Was a Dimension Hopping Witch!? - my submission for Summer Fediverse Jam",
-              "plainTitle": null,
-              "imageurl": null,
-              "link": "https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch",
-              "description": "submitted by <a href=\"https://programming.dev/u/emma\">emma</a> to <a href=\"https://programming.dev/c/play_my_game\">play_my_game</a><br>7 points | <a href=\"https://programming.dev/post/929081\">1 comments</a><br><a href=\"https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch\">https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch</a><p>This is a game about being roommates. Awake and face your day along side the person who shares your living space!</p>\n<p><img src=\"https://programming.dev/pictrs/image/ecfc7da5-2802-43b3-82c1-8c6eabedfd56.png\" alt=\"\" /></p>\n",
-              "author": null,
-              "pubDate": "Tue, 25 Jul 2023 12:27:19 +0000",
-              "createDate": null,
-              "updateDate": null,
-              "media:content": null,
-              "content:encoded": null
-            }
-          ]
-        },
-        "@version": "2.0",
-        "@xmlns:webfeeds": null,
-        "@xmlns:media": null,
-        "@xmlns:content": null
-      },
-      "manipulate_input": "",
-      "retain_all_entries": true,
-      "title": "@emma@programming.dev",
-      "link": "https://programming.dev/u/emma"
-    },
     "https://marmadilemanteater.dev/blog/rss.xml": {
       "rss": {
         "channel": {
@@ -244,66 +304,6 @@
       "retain_all_entries": true,
       "title": "Emma <MarmadileManteater>",
       "link": "https://marmadilemanteater.dev/blog/"
-    },
-    "https://itch.io/games/newest/by-marmadilemanteater.xml": {
-      "rss": {
-        "channel": {
-          "title": "Latest games by Emma - itch.io",
-          "link": "https://itch.io/games/newest/by-marmadilemanteater",
-          "item": [
-            {
-              "guid": "https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch",
-              "title": "How Was I Supposed to Know My Roommate Was a Dimension Hopping Witch!? [Free] [Role Playing] [Windows] [Android]",
-              "plainTitle": "How Was I Supposed to Know My Roommate Was a Dimension Hopping Witch!?",
-              "imageurl": "https://img.itch.zone/aW1nLzEyODkzODE3LnBuZw==/315x250%23c/TZlzHP.png",
-              "link": "https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch",
-              "description": "This is a game about being roommates. Awake and face your day along side the person who shares your living space!\n<br/><br/> <img alt=\"How Was I Supposed to Know My Roommate Was a Dimension Hopping Witch!?\" src=\"https://img.itch.zone/aW1nLzEyODkzODE3LnBuZw==/315x250%23c/TZlzHP.png\"/>",
-              "author": null,
-              "pubDate": "Sun, 23 Jul 2023 04:41:19 GMT",
-              "createDate": "Sun, 23 Jul 2023 04:41:19 GMT",
-              "updateDate": "Mon, 31 Jul 2023 15:30:01 GMT",
-              "media:content": null,
-              "content:encoded": null
-            },
-            {
-              "guid": "https://marmadilemanteater.itch.io/what-is-hiding-in-the-dark",
-              "title": "What Is Hiding In The Dark [Free] [Other] [Windows]",
-              "plainTitle": "What Is Hiding In The Dark",
-              "imageurl": "https://img.itch.zone/aW1nLzEwMzQ0NjM1LnBuZw==/315x250%23c/eQ0Ugs.png",
-              "link": "https://marmadilemanteater.itch.io/what-is-hiding-in-the-dark",
-              "description": "This is a game about answering the door and keeping yourself occupied.\n<br/><br/> <img alt=\"What Is Hiding In The Dark\" src=\"https://img.itch.zone/aW1nLzEwMzQ0NjM1LnBuZw==/315x250%23c/eQ0Ugs.png\"/>",
-              "author": null,
-              "pubDate": "Sun, 23 Oct 2022 15:50:40 GMT",
-              "createDate": "Sun, 23 Oct 2022 15:50:40 GMT",
-              "updateDate": "Sat, 29 Oct 2022 11:39:48 GMT",
-              "media:content": null,
-              "content:encoded": null
-            },
-            {
-              "guid": "https://marmadilemanteater.itch.io/the-very-thirsty-plant-the-labyrinth-of-ghosts",
-              "title": "The Very Thirsty Plant & the Labyrinth of Ghosts [Free] [Windows]",
-              "plainTitle": "The Very Thirsty Plant & the Labyrinth of Ghosts",
-              "imageurl": "https://img.itch.zone/aW1nLzk4NzcyODUucG5n/315x250%23c/m1WJNB.png",
-              "link": "https://marmadilemanteater.itch.io/the-very-thirsty-plant-the-labyrinth-of-ghosts",
-              "description": "This is a game about retrieving water for a plant.\n<br/><br/> <img alt=\"The Very Thirsty Plant &amp; the Labyrinth of Ghosts\" src=\"https://img.itch.zone/aW1nLzk4NzcyODUucG5n/315x250%23c/m1WJNB.png\"/>",
-              "author": null,
-              "pubDate": "Sun, 21 Aug 2022 05:10:36 GMT",
-              "createDate": "Sun, 21 Aug 2022 05:10:36 GMT",
-              "updateDate": "Sun, 28 Aug 2022 22:35:02 GMT",
-              "media:content": null,
-              "content:encoded": null
-            }
-          ]
-        },
-        "@version": "2.0",
-        "@xmlns:webfeeds": null,
-        "@xmlns:media": null,
-        "@xmlns:content": null
-      },
-      "manipulate_input": "node ./itch.js",
-      "retain_all_entries": true,
-      "title": "Emma <MarmadileManteater> on itch.io",
-      "link": "https://marmadilemanteater.itch.io"
     },
     "https://gamemaking.social/@emma.rss": {
       "rss": {
