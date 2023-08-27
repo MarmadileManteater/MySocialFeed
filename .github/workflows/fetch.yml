@@ -70,7 +70,7 @@ jobs:
       run: |
         git config --global user.name "gh actions bot"
         git config --global user.email "gh-actions-bot[bot]@MarmadileManteater.github.io"
-        git add feed.xml media/
+        git add feed.xml db.json media/
         # Force the build to succeed, even if no files were changed
         git commit -m 'Update files' || true
         git push
