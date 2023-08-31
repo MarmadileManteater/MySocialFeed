@@ -1,190 +1,5 @@
 {
   "rss": {
-    "https://programming.dev/feeds/u/emma.xml?sort=New": {
-      "rss": {
-        "channel": {
-          "title": "programming.dev - emma",
-          "link": "https://programming.dev/u/emma",
-          "item": [
-            {
-              "guid": "https://programming.dev/post/929081",
-              "title": "How Was I Supposed to Know My Roommate Was a Dimension Hopping Witch!? - my submission for Summer Fediverse Jam",
-              "plainTitle": null,
-              "imageurl": null,
-              "link": "https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch",
-              "description": "submitted by <a href=\"https://programming.dev/u/emma\">emma</a> to <a href=\"https://programming.dev/c/play_my_game\">play_my_game</a><br>7 points | <a href=\"https://programming.dev/post/929081\">1 comments</a><br><a href=\"https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch\">https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch</a><p>This is a game about being roommates. Awake and face your day along side the person who shares your living space!</p>\n<p><img src=\"https://programming.dev/pictrs/image/ecfc7da5-2802-43b3-82c1-8c6eabedfd56.png\" alt=\"\" /></p>\n",
-              "author": null,
-              "pubDate": "Tue, 25 Jul 2023 12:27:19 +0000",
-              "createDate": null,
-              "updateDate": null,
-              "media:content": null,
-              "content:encoded": null
-            }
-          ]
-        },
-        "@version": "2.0",
-        "@xmlns:webfeeds": null,
-        "@xmlns:media": null,
-        "@xmlns:content": null
-      },
-      "manipulate_input": "",
-      "retain_all_entries": true,
-      "title": "@emma@programming.dev",
-      "link": "https://programming.dev/u/emma"
-    },
-    "https://pxlmo.com/users/emma.atom": {
-      "rss": {
-        "channel": {
-          "title": "emma on Pixelfed",
-          "link": "https://pxlmo.com/emma",
-          "item": [
-            {
-              "guid": "https://pxlmo.com/p/emma/598284450851876393",
-              "title": "in case of mouse-related emergency, open packaging",
-              "plainTitle": "in case of mouse-related emergency, open packaging",
-              "imageurl": null,
-              "link": "https://pxlmo.com/p/emma/598284450851876393",
-              "description": "in case of mouse-related emergency, open packaging",
-              "author": {
-                "name": "emma",
-                "uri": "https://pxlmo.com/emma"
-              },
-              "pubDate": "Fri, 18 Aug 2023 22:48:48 +0000",
-              "createDate": null,
-              "updateDate": "Fri, 18 Aug 2023 22:48:48 +0000",
-              "media:content": [
-                {
-                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/HrIBVl2aSoYg/xZMdYxhYS6bQTT1FrDbTHQMjuc5zaLbn4D6fwfGN.jpg",
-                  "media:description": null,
-                  "@type": "image/jpeg",
-                  "@fileSize": null,
-                  "@medium": "image"
-                }
-              ],
-              "content:encoded": "\n\t\t\t<img id=\"rss_item_598284450851876393\" src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/HrIBVl2aSoYg/xZMdYxhYS6bQTT1FrDbTHQMjuc5zaLbn4D6fwfGN.jpg\" alt=\"a computer mouse in its packaging hung on the wall with the words &quot;In case of mouse-related emergency&quot; above it and the words &quot;open packaging&quot; below it\">\n\t\t\t<p style=\"padding:10px;\">in case of mouse-related emergency, open packaging</p>\n\t\t\t"
-            },
-            {
-              "guid": "https://pxlmo.com/p/emma/501531556242242085",
-              "title": "I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really #cute in this dress. #GenderEuphoria #HappyPost #FeltCuteMightDelete",
-              "plainTitle": "I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really #cute in this dress. #GenderEuphoria #HappyPost #FeltCuteMightDelete",
-              "imageurl": null,
-              "link": "https://pxlmo.com/p/emma/501531556242242085",
-              "description": "I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really <a href=\"https://pxlmo.com/discover/tags/cute?src=hash\" title=\"#cute\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#cute</a> in this dress. <a href=\"https://pxlmo.com/discover/tags/GenderEuphoria?src=hash\" title=\"#GenderEuphoria\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#GenderEuphoria</a> <a href=\"https://pxlmo.com/discover/tags/HappyPost?src=hash\" title=\"#HappyPost\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#HappyPost</a> <a href=\"https://pxlmo.com/discover/tags/FeltCuteMightDelete?src=hash\" title=\"#FeltCuteMightDelete\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#FeltCuteMightDelete</a>",
-              "author": {
-                "name": "emma",
-                "uri": "https://pxlmo.com/emma"
-              },
-              "pubDate": "Fri, 25 Nov 2022 04:07:21 +0000",
-              "createDate": null,
-              "updateDate": "Fri, 25 Nov 2022 04:07:21 +0000",
-              "media:content": [
-                {
-                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/a48ad3dc0-89cf68/rUM3BANwGAOu/4bSh7Iwev3vTLUXMTvOp0FlHJbkNBG5hLa1h6fRq.jpg",
-                  "media:description": null,
-                  "@type": "image/jpeg",
-                  "@fileSize": null,
-                  "@medium": "image"
-                },
-                {
-                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/a48ad3dc0-89cf68/NLuJxpJxYiah/j48W4X97k4WjCOZvqmUIWDEotKnTBNzl8wMKHY6x.jpg",
-                  "media:description": null,
-                  "@type": "image/jpeg",
-                  "@fileSize": null,
-                  "@medium": "image"
-                }
-              ],
-              "content:encoded": "\n\t\t\t<img id=\"rss_item_501531556242242085\" src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/a48ad3dc0-89cf68/rUM3BANwGAOu/4bSh7Iwev3vTLUXMTvOp0FlHJbkNBG5hLa1h6fRq.jpg\" alt=\"a young woman in a dress with her red hair covering her face\"> <img src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/a48ad3dc0-89cf68/NLuJxpJxYiah/j48W4X97k4WjCOZvqmUIWDEotKnTBNzl8wMKHY6x.jpg\" alt=\"a young woman in a dress and a cardigan with her red hair covering her face\" />\n\t\t\t<p style=\"padding:10px;\">I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really <a href=\"https://pxlmo.com/discover/tags/cute?src=hash\" title=\"#cute\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#cute</a> in this dress. <a href=\"https://pxlmo.com/discover/tags/GenderEuphoria?src=hash\" title=\"#GenderEuphoria\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#GenderEuphoria</a> <a href=\"https://pxlmo.com/discover/tags/HappyPost?src=hash\" title=\"#HappyPost\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#HappyPost</a> <a href=\"https://pxlmo.com/discover/tags/FeltCuteMightDelete?src=hash\" title=\"#FeltCuteMightDelete\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#FeltCuteMightDelete</a></p>\n\t\t\t"
-            },
-            {
-              "guid": "https://pxlmo.com/p/emma/600288525627715122",
-              "title": "my apartment complex is having some work done on the parking lots, and 🤷‍♀️ i guess they forgot to pick up this water bottle before they started",
-              "plainTitle": "my apartment complex is having some work done on the parking lots, and 🤷‍♀️ i guess they forgot to pick up this water bottle before they started",
-              "imageurl": null,
-              "link": "https://pxlmo.com/p/emma/600288525627715122",
-              "description": "my apartment complex is having some work done on the parking lots, and 🤷‍♀️ i guess they forgot to pick up this water bottle before they started",
-              "author": {
-                "name": "emma",
-                "uri": "https://pxlmo.com/emma"
-              },
-              "pubDate": "Thu, 24 Aug 2023 11:32:17 +0000",
-              "createDate": null,
-              "updateDate": "Thu, 24 Aug 2023 11:32:17 +0000",
-              "media:content": [
-                {
-                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/mB8XgqaBvYT9/Y5SV7FjJaNwJrYeudslpIpcs9KyMI2D5ILgaZqjR.jpg",
-                  "media:description": null,
-                  "@type": "image/jpeg",
-                  "@fileSize": null,
-                  "@medium": "image"
-                },
-                {
-                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/KCBVOeXkgeST/6AkgChQztubcgXsihZh9uaLC7LttzX4VwJ6GxbHZ.jpg",
-                  "media:description": null,
-                  "@type": "image/jpeg",
-                  "@fileSize": null,
-                  "@medium": "image"
-                }
-              ],
-              "content:encoded": "\n\t\t\t<img id=\"rss_item_600288525627715122\" src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/mB8XgqaBvYT9/Y5SV7FjJaNwJrYeudslpIpcs9KyMI2D5ILgaZqjR.jpg\" alt=\"a water bottle is covered in asphalt in a parking lot next to a sidewalk\"> <img src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/KCBVOeXkgeST/6AkgChQztubcgXsihZh9uaLC7LttzX4VwJ6GxbHZ.jpg\" alt=\"null\" />\n\t\t\t<p style=\"padding:10px;\">my apartment complex is having some work done on the parking lots, and 🤷‍♀️ i guess they forgot to pick up this water bottle before they started</p>\n\t\t\t"
-            }
-          ]
-        },
-        "@version": "2.0",
-        "@xmlns:webfeeds": "http://webfeeds.org/rss/1.0",
-        "@xmlns:media": "http://search.yahoo.com/mrss/",
-        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/"
-      },
-      "manipulate_input": "node ./pixelfed.js",
-      "retain_all_entries": true,
-      "title": "@emma@pxlmo.com",
-      "link": "https://pxlmo.com/emma"
-    },
-    "https://marmadilemanteater.dev/blog/rss.xml": {
-      "rss": {
-        "channel": {
-          "title": "Emma's Blog!",
-          "link": "https://marmadilemanteater.dev/blog/",
-          "item": [
-            {
-              "guid": "https://marmadilemanteater.dev/blog/it-works-in-dev-why-not-in-prod",
-              "title": "It works in dev. Why doesn't it work in prod?",
-              "plainTitle": null,
-              "imageurl": null,
-              "link": "https://marmadilemanteater.dev/blog/it-works-in-dev-why-not-in-prod",
-              "description": "What is that? That little 😈insidious thing that happens when you 🚀deploy code that you've solidly vetted into your production environment. Where does that come from?",
-              "author": null,
-              "pubDate": "Thu, 22 Dec 2022 21:50:53 GMT",
-              "createDate": null,
-              "updateDate": null,
-              "media:content": null,
-              "content:encoded": "<root xmlns=\"http://www.w3.org/1999/xhtml\">\n  \n  \n  \n  <div>\n    <p class=\"text-lg pb-4\">I enjoy a solid code <span style=\"white-space: nowrap;\">📄review</span>, but I am not always working with other <span style=\"white-space: nowrap;\">🫂people</span> when I code. Either way, I <span style=\"white-space: nowrap;\">😣dislike</span> the feeling of accidentally introducing <span style=\"white-space: nowrap;\">🐛bugs</span> with my code. I've done it before, and I am the type of person to wake up in a 🧊cold sweat in the middle of the <span style=\"white-space: nowrap;\">🌔night</span> wondering why that page just doesn't quite scroll to the top in the right way.</p>\n    <p class=\"text-lg pb-4\">It is even more <span style=\"white-space: nowrap;\">👻soul</span> crushing when that issue doesn't even happen until the code has gone through a <span style=\"white-space: nowrap;\">🔁continuous</span> integration workflow and ended up in some data center somewhere; oh, and also, all of the source maps are gone. This isn't even considering that you might be working on something highly <span style=\"white-space: nowrap;\">👁visible</span> that you wouldn't really want to be working on in production while there are people actively interacting with it.</p>\n    <h4 class=\"text-xl pb-4\"><em>Why doesn't it work?</em></h4>\n    <p class=\"text-lg pb-4\">Maybe, it is a bad <span style=\"white-space: nowrap;\">⚙config</span>, or <em>maybe</em>, the thing you designed is fundamentally incompatible with the thing you are hosting it on, or <em>maybe</em>, it is just a bad <span style=\"white-space: nowrap;\">⚙config</span>. It is really hard to tell🤔. Is it even <span style=\"white-space: nowrap;\">🚀deploying?</span> Hold on, let me read the logs.</p>\n    <h4 class=\"text-xl pb-4\"><em>Oh, I think I fixed it!</em></h4>\n    <p class=\"text-lg pb-4\">Oh, wait, no. It was just cached from before it broke.</p>\n    <h4 class=\"text-lg pb-4\"><em>Is this just a part of being human?</em></h4>\n    <p class=\"text-lg pb-4\">Am I doomed to fail? Is acceptance of my humanity the only thing that will relieve me from my <span style=\"white-space: nowrap;\">😣suffering?</span> I don't know. I <em>can't</em> say for sure, but I do know that, as a <span style=\"white-space: nowrap;\">👩human</span>, I am bound to make <span style=\"white-space: nowrap;\">❌mistakes</span>. I am getting better at not ruminating on the past, but my progress isn't a straight <span style=\"white-space: nowrap;\">📈line</span>. Growth is all about making mistakes. You can't learn how to do something unless you try. You can't know if something works in production unless you put it in production.</p>\n    <h4 class=\"text-xl\">So, go ahead! Press that 🚀deploy button!</h4>\n    <p class=\"text-lg pb-4\"><em>Unless, that is a bad idea for you; idk your life🤷‍♀️</em></p>\n  </div>\n</root>"
-            },
-            {
-              "guid": "https://marmadilemanteater.dev/blog/writing-the-same-trivial-site-in-astro-and-qwik",
-              "title": "Writing the same trivial site in 👩‍🚀Astro & ⚡Qwik",
-              "plainTitle": null,
-              "imageurl": null,
-              "link": "https://marmadilemanteater.dev/blog/writing-the-same-trivial-site-in-astro-and-qwik",
-              "description": "I wrote this whole trivial site with two very similar but different stacks.",
-              "author": null,
-              "pubDate": "Wed, 21 Dec 2022 16:20:49 GMT",
-              "createDate": null,
-              "updateDate": null,
-              "media:content": null,
-              "content:encoded": "<root xmlns=\"http://www.w3.org/1999/xhtml\">\n  \n  \n  \n  <div>\n    <p class=\"text-xl pb-4\">\"<em>Now, wait a minute . . .</em>\" you might be saying to yourself, <br class=\"mb-4\"/>\"<em>Is it really fair to compare a framework that is production ready with one that is not production ready?</em>\"</p>\n    <p class=\"text-xl pb-4\"><strong>🤷‍♀️Probably not</strong></p>\n    <p class=\"text-lg pb-4\">However, I am not going to let that stop me from having a little fun. I created two repos about a month ago: <a href=\"https://github.com/MarmadileManteater/AstroVueStaticSite\" target=\"_blank\" class=\"hover:underline text-blue-600 dark:text-red-300\">AstroVueStaticSite</a> and <a href=\"https://github.com/MarmadileManteater/QwikStaticSite\" target=\"_blank\" class=\"hover:underline text-blue-600 dark:text-red-300\">QwikStaticSite</a>. They are two different versions of my website. In most ways, they are indistinguishable, but they aren't exactly the same.</p>\n    <h3 class=\"text-xl pb-4\" id=\"attempting-to-reach-feature\"><strong>Attempting to reach feature parity</strong></h3>\n    <p class=\"text-lg pb-4\">Qwik isn't even v1 yet, but it does have a lot of <span style=\"white-space: nowrap;\">🔔bells</span> and <span style=\"white-space: nowrap;\">🎷whistles</span> that make it more appealing <em class=\"text-zinc-600 dark:text-zinc-400\">(to me)</em> over Astro. Despite Qwik's lack of a hydration step, it generates MPAs with client side navigation that takes over after the first load, and this is because it introduces this entirely new concept of <a href=\"https://www.builder.io/blog/hydration-is-pure-overhead\" class=\"hover:underline text-blue-600 dark:text-red-300\" target=\"_blank\">resumability</a>. If you haven't <span style=\"white-space: nowrap;\">👂heard</span> of it, it makes <span style=\"white-space: nowrap;\">💧hydration</span> feel archaic. It makes me <span style=\"white-space: nowrap;\">🤔wonder</span> why a lot of JavaScript meta-frameworks server-side render only to dispose of the current state and <span style=\"white-space: nowrap;\">💦rehydrate</span> on the client. It just seems <span style=\"white-space: nowrap;\">🗑wasteful</span>. On the other hand, resumuability is quite conservative with its waste; the browser picks up with the framework right where the server left off. <span style=\"white-space: nowrap;\">🥤Rehydration</span> isn't necessary because the state is serialized into the HTML; there is no need to regenerate the shadow DOM because the real DOM is already the truth.\n    </p>\n    <p class=\"text-lg pb-4\">That all being said, Astro is production ready, and while it doesn't do everything that Qwik does out of the box📦, it knows its scope. It solves the problem of generating static sites. It doesn't attempt to change anything about the paradigms of how JavaScript frameworks work, and in fact, it works with existing frontend UI frameworks such as Vue and Svelte.  It introduces the idea of 🏝islands, but it doesn't fundementally change hydration; it only makes it an <span style=\"white-space: nowrap;\">opt-in</span> process on a component level.</p>\n    <p class=\"text-xl pb-4\">How do we get client side navigation in Astro?</p>\n    <p class=\"text-lg pb-4\">There is this JavaScript library known as <a target=\"_blank\" href=\"https://turbo.hotwired.dev/\" class=\"hover:underline text-blue-600 dark:text-red-300\">@hotwire/turbo</a>. It isn't anything 🎁new, but dang it, it handles client side navigation in a way which easily snaps into any existing MPA.</p>\n    <p class=\"text-lg pb-4\">For instance, if you want to keep your layout on the page while the page content is the only thing that needs to change, all you need to do is add the following code to your `layout.astro` file:</p>\n    <h4 class=\"font-bold\"></h4><em>javascript:</em>\n    <pre>\n      <div><span class=\"hljs-keyword\">import</span> * <span class=\"hljs-keyword\">as</span> turbo <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">'@hotwire/turbo'</span>\nturbo.<span class=\"hljs-title function_\">start</span>()\n<span class=\"hljs-comment\">// everything below this is just to handle window scrolling</span>\n<span class=\"hljs-keyword\">const</span> <span class=\"hljs-title function_\">beforeRender</span> = (<span class=\"hljs-params\"></span>) =&gt; {\n  <span class=\"hljs-variable language_\">document</span>.<span class=\"hljs-title function_\">removeEventListener</span>(<span class=\"hljs-string\">'turbo:before-render'</span>, beforeRender)\n  <span class=\"hljs-comment\">// scrolls the page to the top</span>\n  <span class=\"hljs-variable language_\">window</span>.<span class=\"hljs-title function_\">scrollTo</span>(<span class=\"hljs-number\">0</span>, <span class=\"hljs-number\">0</span>)\n}\n<span class=\"hljs-variable language_\">document</span>.<span class=\"hljs-title function_\">addEventListener</span>(<span class=\"hljs-string\">'turbo:load'</span>, <span class=\"hljs-function\">() =&gt;</span> {\n  <span class=\"hljs-variable language_\">document</span>.<span class=\"hljs-title function_\">addEventListener</span>(<span class=\"hljs-string\">'turbo:before-render'</span>, beforeRender)\n})\n</div>\n    </pre>\n    <h4 class=\"font-bold\"></h4><em>html:</em>\n    <pre>\n      <div><span class=\"hljs-comment\">&lt;!-- \n  data-turbo-action=\"advance\"\n  - makes the back button work\n--&gt;</span>\n<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">turbo-frame</span> <span class=\"hljs-attr\">id</span>=<span class=\"hljs-string\">\"main-content\"</span> <span class=\"hljs-attr\">data-turbo-action</span>=<span class=\"hljs-string\">\"advance\"</span> &gt;</span>\n  <span class=\"hljs-comment\">&lt;!-- Surround the things that you want to change on your page with this element --&gt;</span>\n  <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">slot</span>/&gt;</span>\n<span class=\"hljs-tag\">&lt;/<span class=\"hljs-name\">turbo-frame</span>&gt;</span></div>\n</pre>\n    <p class=\"text-lg pb-4 pt-6\">Everything outside this frame will not change on page navigation.</p>\n    <p class=\"text-lg pb-4\">Of course, there are other more complicated ways to use this powerful library, but I just wanted to demonstrate a very specific example. If you are interested in learning more about turbo-frames, <a href=\"https://turbo.hotwired.dev/handbook/frames\" class=\"hover:underline text-blue-600 dark:text-red-300\" target=\"_blank\">this documentation</a> was very helpful for me. There is also a quite <a href=\"https://youtu.be/6mv0_jsWhoE\" class=\"hover:underline text-blue-600 dark:text-red-300\" target=\"_blank\">informational video</a> on how to do something similar to this with both this library and the <a href=\"https://developer.chrome.com/docs/web-platform/view-transitions/\" class=\"hover:underline text-blue-600 dark:text-red-300\" target=\"_blank\">Shared Element Transistion API</a> available in Chrome.</p>\n    <h3 class=\"text-xl pb-4\"><strong>More similar than you might think</strong></h3>\n    <p class=\"text-lg pb-4\">Both use vite, both use directory based routing with square brackets for url parameters, both use JSX-like syntax to some extent, and because of this, a lot of things were very <span style=\"white-space: nowrap;\">\"✂copy</span> and <span style=\"white-space: nowrap;\">📋paste.\"</span></p>\n    <p class=\"text-lg pb-4\">I used Vue along with Astro in order to achieve some of the client-side functionality I achieved with Qwik components, but I also used it because I <span style=\"white-space: nowrap;\">❤like</span> Vue. At the end of the day, this is the biggest difference between the repos: Vue vs JSX syntax.</p>\n    <p class=\"text-lg pb-4\">Honestly, my biggest gripe about Qwik so far is it's insistence on being \"React-like.\" As someone who is not a <span style=\"white-space: nowrap;\">⚛React</span> developer, for <span style=\"white-space: nowrap;\">🎉fun</span> or for <span style=\"white-space: nowrap;\">💶profit</span>, I feel like there are things I like about this syntax, but there are also things I find unintuitive about it such as `useWatch$` or I <span style=\"white-space: nowrap;\">🤔guess</span> now `useTask$` in the latest development version of Qwik.</p>\n    <p class=\"text-lg pb-4\">That is another thing. I would not recommend using Qwik at this point in time because it is not ready for production. If you start building a Qwik app at this point it time, you will have to make many revisions before a production ready version is released, and as such, I would highly recommend anyone interested in using Qwik to build an app, at this point in time, to seriously consider Astro + their favourite frontend framework instead. It is more stable. It is production ready now. It <em class=\"text-zinc-600 dark:text-zinc-400\">(probably)</em> won't have major breaking changes before you release.</p>\n    <p class=\"text-lg pb-4\">That all being said. I think Qwik is 🔥dank af, and resumability is the future of web frameworks.</p>\n  </div>\n</root>"
-            }
-          ]
-        },
-        "@version": "2.0",
-        "@xmlns:webfeeds": null,
-        "@xmlns:media": null,
-        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/"
-      },
-      "manipulate_input": "",
-      "retain_all_entries": true,
-      "title": "Emma <MarmadileManteater>",
-      "link": "https://marmadilemanteater.dev/blog/"
-    },
     "https://itch.io/games/newest/by-marmadilemanteater.xml": {
       "rss": {
         "channel": {
@@ -773,6 +588,191 @@
       "retain_all_entries": true,
       "title": "@emma@gamemaking.social",
       "link": "https://gamemaking.social/@emma"
+    },
+    "https://marmadilemanteater.dev/blog/rss.xml": {
+      "rss": {
+        "channel": {
+          "title": "Emma's Blog!",
+          "link": "https://marmadilemanteater.dev/blog/",
+          "item": [
+            {
+              "guid": "https://marmadilemanteater.dev/blog/it-works-in-dev-why-not-in-prod",
+              "title": "It works in dev. Why doesn't it work in prod?",
+              "plainTitle": null,
+              "imageurl": null,
+              "link": "https://marmadilemanteater.dev/blog/it-works-in-dev-why-not-in-prod",
+              "description": "What is that? That little 😈insidious thing that happens when you 🚀deploy code that you've solidly vetted into your production environment. Where does that come from?",
+              "author": null,
+              "pubDate": "Thu, 22 Dec 2022 21:50:53 GMT",
+              "createDate": null,
+              "updateDate": null,
+              "media:content": null,
+              "content:encoded": "<root xmlns=\"http://www.w3.org/1999/xhtml\">\n  \n  \n  \n  <div>\n    <p class=\"text-lg pb-4\">I enjoy a solid code <span style=\"white-space: nowrap;\">📄review</span>, but I am not always working with other <span style=\"white-space: nowrap;\">🫂people</span> when I code. Either way, I <span style=\"white-space: nowrap;\">😣dislike</span> the feeling of accidentally introducing <span style=\"white-space: nowrap;\">🐛bugs</span> with my code. I've done it before, and I am the type of person to wake up in a 🧊cold sweat in the middle of the <span style=\"white-space: nowrap;\">🌔night</span> wondering why that page just doesn't quite scroll to the top in the right way.</p>\n    <p class=\"text-lg pb-4\">It is even more <span style=\"white-space: nowrap;\">👻soul</span> crushing when that issue doesn't even happen until the code has gone through a <span style=\"white-space: nowrap;\">🔁continuous</span> integration workflow and ended up in some data center somewhere; oh, and also, all of the source maps are gone. This isn't even considering that you might be working on something highly <span style=\"white-space: nowrap;\">👁visible</span> that you wouldn't really want to be working on in production while there are people actively interacting with it.</p>\n    <h4 class=\"text-xl pb-4\"><em>Why doesn't it work?</em></h4>\n    <p class=\"text-lg pb-4\">Maybe, it is a bad <span style=\"white-space: nowrap;\">⚙config</span>, or <em>maybe</em>, the thing you designed is fundamentally incompatible with the thing you are hosting it on, or <em>maybe</em>, it is just a bad <span style=\"white-space: nowrap;\">⚙config</span>. It is really hard to tell🤔. Is it even <span style=\"white-space: nowrap;\">🚀deploying?</span> Hold on, let me read the logs.</p>\n    <h4 class=\"text-xl pb-4\"><em>Oh, I think I fixed it!</em></h4>\n    <p class=\"text-lg pb-4\">Oh, wait, no. It was just cached from before it broke.</p>\n    <h4 class=\"text-lg pb-4\"><em>Is this just a part of being human?</em></h4>\n    <p class=\"text-lg pb-4\">Am I doomed to fail? Is acceptance of my humanity the only thing that will relieve me from my <span style=\"white-space: nowrap;\">😣suffering?</span> I don't know. I <em>can't</em> say for sure, but I do know that, as a <span style=\"white-space: nowrap;\">👩human</span>, I am bound to make <span style=\"white-space: nowrap;\">❌mistakes</span>. I am getting better at not ruminating on the past, but my progress isn't a straight <span style=\"white-space: nowrap;\">📈line</span>. Growth is all about making mistakes. You can't learn how to do something unless you try. You can't know if something works in production unless you put it in production.</p>\n    <h4 class=\"text-xl\">So, go ahead! Press that 🚀deploy button!</h4>\n    <p class=\"text-lg pb-4\"><em>Unless, that is a bad idea for you; idk your life🤷‍♀️</em></p>\n  </div>\n</root>"
+            },
+            {
+              "guid": "https://marmadilemanteater.dev/blog/writing-the-same-trivial-site-in-astro-and-qwik",
+              "title": "Writing the same trivial site in 👩‍🚀Astro & ⚡Qwik",
+              "plainTitle": null,
+              "imageurl": null,
+              "link": "https://marmadilemanteater.dev/blog/writing-the-same-trivial-site-in-astro-and-qwik",
+              "description": "I wrote this whole trivial site with two very similar but different stacks.",
+              "author": null,
+              "pubDate": "Wed, 21 Dec 2022 16:20:49 GMT",
+              "createDate": null,
+              "updateDate": null,
+              "media:content": null,
+              "content:encoded": "<root xmlns=\"http://www.w3.org/1999/xhtml\">\n  \n  \n  \n  <div>\n    <p class=\"text-xl pb-4\">\"<em>Now, wait a minute . . .</em>\" you might be saying to yourself, <br class=\"mb-4\"/>\"<em>Is it really fair to compare a framework that is production ready with one that is not production ready?</em>\"</p>\n    <p class=\"text-xl pb-4\"><strong>🤷‍♀️Probably not</strong></p>\n    <p class=\"text-lg pb-4\">However, I am not going to let that stop me from having a little fun. I created two repos about a month ago: <a href=\"https://github.com/MarmadileManteater/AstroVueStaticSite\" target=\"_blank\" class=\"hover:underline text-blue-600 dark:text-red-300\">AstroVueStaticSite</a> and <a href=\"https://github.com/MarmadileManteater/QwikStaticSite\" target=\"_blank\" class=\"hover:underline text-blue-600 dark:text-red-300\">QwikStaticSite</a>. They are two different versions of my website. In most ways, they are indistinguishable, but they aren't exactly the same.</p>\n    <h3 class=\"text-xl pb-4\" id=\"attempting-to-reach-feature\"><strong>Attempting to reach feature parity</strong></h3>\n    <p class=\"text-lg pb-4\">Qwik isn't even v1 yet, but it does have a lot of <span style=\"white-space: nowrap;\">🔔bells</span> and <span style=\"white-space: nowrap;\">🎷whistles</span> that make it more appealing <em class=\"text-zinc-600 dark:text-zinc-400\">(to me)</em> over Astro. Despite Qwik's lack of a hydration step, it generates MPAs with client side navigation that takes over after the first load, and this is because it introduces this entirely new concept of <a href=\"https://www.builder.io/blog/hydration-is-pure-overhead\" class=\"hover:underline text-blue-600 dark:text-red-300\" target=\"_blank\">resumability</a>. If you haven't <span style=\"white-space: nowrap;\">👂heard</span> of it, it makes <span style=\"white-space: nowrap;\">💧hydration</span> feel archaic. It makes me <span style=\"white-space: nowrap;\">🤔wonder</span> why a lot of JavaScript meta-frameworks server-side render only to dispose of the current state and <span style=\"white-space: nowrap;\">💦rehydrate</span> on the client. It just seems <span style=\"white-space: nowrap;\">🗑wasteful</span>. On the other hand, resumuability is quite conservative with its waste; the browser picks up with the framework right where the server left off. <span style=\"white-space: nowrap;\">🥤Rehydration</span> isn't necessary because the state is serialized into the HTML; there is no need to regenerate the shadow DOM because the real DOM is already the truth.\n    </p>\n    <p class=\"text-lg pb-4\">That all being said, Astro is production ready, and while it doesn't do everything that Qwik does out of the box📦, it knows its scope. It solves the problem of generating static sites. It doesn't attempt to change anything about the paradigms of how JavaScript frameworks work, and in fact, it works with existing frontend UI frameworks such as Vue and Svelte.  It introduces the idea of 🏝islands, but it doesn't fundementally change hydration; it only makes it an <span style=\"white-space: nowrap;\">opt-in</span> process on a component level.</p>\n    <p class=\"text-xl pb-4\">How do we get client side navigation in Astro?</p>\n    <p class=\"text-lg pb-4\">There is this JavaScript library known as <a target=\"_blank\" href=\"https://turbo.hotwired.dev/\" class=\"hover:underline text-blue-600 dark:text-red-300\">@hotwire/turbo</a>. It isn't anything 🎁new, but dang it, it handles client side navigation in a way which easily snaps into any existing MPA.</p>\n    <p class=\"text-lg pb-4\">For instance, if you want to keep your layout on the page while the page content is the only thing that needs to change, all you need to do is add the following code to your `layout.astro` file:</p>\n    <h4 class=\"font-bold\"></h4><em>javascript:</em>\n    <pre>\n      <div><span class=\"hljs-keyword\">import</span> * <span class=\"hljs-keyword\">as</span> turbo <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">'@hotwire/turbo'</span>\nturbo.<span class=\"hljs-title function_\">start</span>()\n<span class=\"hljs-comment\">// everything below this is just to handle window scrolling</span>\n<span class=\"hljs-keyword\">const</span> <span class=\"hljs-title function_\">beforeRender</span> = (<span class=\"hljs-params\"></span>) =&gt; {\n  <span class=\"hljs-variable language_\">document</span>.<span class=\"hljs-title function_\">removeEventListener</span>(<span class=\"hljs-string\">'turbo:before-render'</span>, beforeRender)\n  <span class=\"hljs-comment\">// scrolls the page to the top</span>\n  <span class=\"hljs-variable language_\">window</span>.<span class=\"hljs-title function_\">scrollTo</span>(<span class=\"hljs-number\">0</span>, <span class=\"hljs-number\">0</span>)\n}\n<span class=\"hljs-variable language_\">document</span>.<span class=\"hljs-title function_\">addEventListener</span>(<span class=\"hljs-string\">'turbo:load'</span>, <span class=\"hljs-function\">() =&gt;</span> {\n  <span class=\"hljs-variable language_\">document</span>.<span class=\"hljs-title function_\">addEventListener</span>(<span class=\"hljs-string\">'turbo:before-render'</span>, beforeRender)\n})\n</div>\n    </pre>\n    <h4 class=\"font-bold\"></h4><em>html:</em>\n    <pre>\n      <div><span class=\"hljs-comment\">&lt;!-- \n  data-turbo-action=\"advance\"\n  - makes the back button work\n--&gt;</span>\n<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">turbo-frame</span> <span class=\"hljs-attr\">id</span>=<span class=\"hljs-string\">\"main-content\"</span> <span class=\"hljs-attr\">data-turbo-action</span>=<span class=\"hljs-string\">\"advance\"</span> &gt;</span>\n  <span class=\"hljs-comment\">&lt;!-- Surround the things that you want to change on your page with this element --&gt;</span>\n  <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">slot</span>/&gt;</span>\n<span class=\"hljs-tag\">&lt;/<span class=\"hljs-name\">turbo-frame</span>&gt;</span></div>\n</pre>\n    <p class=\"text-lg pb-4 pt-6\">Everything outside this frame will not change on page navigation.</p>\n    <p class=\"text-lg pb-4\">Of course, there are other more complicated ways to use this powerful library, but I just wanted to demonstrate a very specific example. If you are interested in learning more about turbo-frames, <a href=\"https://turbo.hotwired.dev/handbook/frames\" class=\"hover:underline text-blue-600 dark:text-red-300\" target=\"_blank\">this documentation</a> was very helpful for me. There is also a quite <a href=\"https://youtu.be/6mv0_jsWhoE\" class=\"hover:underline text-blue-600 dark:text-red-300\" target=\"_blank\">informational video</a> on how to do something similar to this with both this library and the <a href=\"https://developer.chrome.com/docs/web-platform/view-transitions/\" class=\"hover:underline text-blue-600 dark:text-red-300\" target=\"_blank\">Shared Element Transistion API</a> available in Chrome.</p>\n    <h3 class=\"text-xl pb-4\"><strong>More similar than you might think</strong></h3>\n    <p class=\"text-lg pb-4\">Both use vite, both use directory based routing with square brackets for url parameters, both use JSX-like syntax to some extent, and because of this, a lot of things were very <span style=\"white-space: nowrap;\">\"✂copy</span> and <span style=\"white-space: nowrap;\">📋paste.\"</span></p>\n    <p class=\"text-lg pb-4\">I used Vue along with Astro in order to achieve some of the client-side functionality I achieved with Qwik components, but I also used it because I <span style=\"white-space: nowrap;\">❤like</span> Vue. At the end of the day, this is the biggest difference between the repos: Vue vs JSX syntax.</p>\n    <p class=\"text-lg pb-4\">Honestly, my biggest gripe about Qwik so far is it's insistence on being \"React-like.\" As someone who is not a <span style=\"white-space: nowrap;\">⚛React</span> developer, for <span style=\"white-space: nowrap;\">🎉fun</span> or for <span style=\"white-space: nowrap;\">💶profit</span>, I feel like there are things I like about this syntax, but there are also things I find unintuitive about it such as `useWatch$` or I <span style=\"white-space: nowrap;\">🤔guess</span> now `useTask$` in the latest development version of Qwik.</p>\n    <p class=\"text-lg pb-4\">That is another thing. I would not recommend using Qwik at this point in time because it is not ready for production. If you start building a Qwik app at this point it time, you will have to make many revisions before a production ready version is released, and as such, I would highly recommend anyone interested in using Qwik to build an app, at this point in time, to seriously consider Astro + their favourite frontend framework instead. It is more stable. It is production ready now. It <em class=\"text-zinc-600 dark:text-zinc-400\">(probably)</em> won't have major breaking changes before you release.</p>\n    <p class=\"text-lg pb-4\">That all being said. I think Qwik is 🔥dank af, and resumability is the future of web frameworks.</p>\n  </div>\n</root>"
+            }
+          ]
+        },
+        "@version": "2.0",
+        "@xmlns:webfeeds": null,
+        "@xmlns:media": null,
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/"
+      },
+      "manipulate_input": "",
+      "retain_all_entries": true,
+      "title": "Emma <MarmadileManteater>",
+      "link": "https://marmadilemanteater.dev/blog/"
+    },
+    "https://pxlmo.com/users/emma.atom": {
+      "rss": {
+        "channel": {
+          "title": "emma on Pixelfed",
+          "link": "https://pxlmo.com/emma",
+          "item": [
+            {
+              "guid": "https://pxlmo.com/p/emma/598284450851876393",
+              "title": "in case of mouse-related emergency, open packaging",
+              "plainTitle": "in case of mouse-related emergency, open packaging",
+              "imageurl": null,
+              "link": "https://pxlmo.com/p/emma/598284450851876393",
+              "description": "in case of mouse-related emergency, open packaging",
+              "author": {
+                "name": "emma",
+                "uri": "https://pxlmo.com/emma"
+              },
+              "pubDate": "Fri, 18 Aug 2023 22:48:48 +0000",
+              "createDate": null,
+              "updateDate": "Fri, 18 Aug 2023 22:48:48 +0000",
+              "media:content": [
+                {
+                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/HrIBVl2aSoYg/xZMdYxhYS6bQTT1FrDbTHQMjuc5zaLbn4D6fwfGN.jpg",
+                  "media:description": null,
+                  "@type": "image/jpeg",
+                  "@fileSize": null,
+                  "@medium": "image"
+                }
+              ],
+              "content:encoded": "\n\t\t\t<img id=\"rss_item_598284450851876393\" src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/HrIBVl2aSoYg/xZMdYxhYS6bQTT1FrDbTHQMjuc5zaLbn4D6fwfGN.jpg\" alt=\"a computer mouse in its packaging hung on the wall with the words &quot;In case of mouse-related emergency&quot; above it and the words &quot;open packaging&quot; below it\">\n\t\t\t<p style=\"padding:10px;\">in case of mouse-related emergency, open packaging</p>\n\t\t\t"
+            },
+            {
+              "guid": "https://pxlmo.com/p/emma/501531556242242085",
+              "title": "I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really #cute in this dress. #GenderEuphoria #HappyPost #FeltCuteMightDelete",
+              "plainTitle": "I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really #cute in this dress. #GenderEuphoria #HappyPost #FeltCuteMightDelete",
+              "imageurl": null,
+              "link": "https://pxlmo.com/p/emma/501531556242242085",
+              "description": "I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really <a href=\"https://pxlmo.com/discover/tags/cute?src=hash\" title=\"#cute\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#cute</a> in this dress. <a href=\"https://pxlmo.com/discover/tags/GenderEuphoria?src=hash\" title=\"#GenderEuphoria\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#GenderEuphoria</a> <a href=\"https://pxlmo.com/discover/tags/HappyPost?src=hash\" title=\"#HappyPost\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#HappyPost</a> <a href=\"https://pxlmo.com/discover/tags/FeltCuteMightDelete?src=hash\" title=\"#FeltCuteMightDelete\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#FeltCuteMightDelete</a>",
+              "author": {
+                "name": "emma",
+                "uri": "https://pxlmo.com/emma"
+              },
+              "pubDate": "Fri, 25 Nov 2022 04:07:21 +0000",
+              "createDate": null,
+              "updateDate": "Fri, 25 Nov 2022 04:07:21 +0000",
+              "media:content": [
+                {
+                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/a48ad3dc0-89cf68/rUM3BANwGAOu/4bSh7Iwev3vTLUXMTvOp0FlHJbkNBG5hLa1h6fRq.jpg",
+                  "media:description": null,
+                  "@type": "image/jpeg",
+                  "@fileSize": null,
+                  "@medium": "image"
+                },
+                {
+                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/a48ad3dc0-89cf68/NLuJxpJxYiah/j48W4X97k4WjCOZvqmUIWDEotKnTBNzl8wMKHY6x.jpg",
+                  "media:description": null,
+                  "@type": "image/jpeg",
+                  "@fileSize": null,
+                  "@medium": "image"
+                }
+              ],
+              "content:encoded": "\n\t\t\t<img id=\"rss_item_501531556242242085\" src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/a48ad3dc0-89cf68/rUM3BANwGAOu/4bSh7Iwev3vTLUXMTvOp0FlHJbkNBG5hLa1h6fRq.jpg\" alt=\"a young woman in a dress with her red hair covering her face\"> <img src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/a48ad3dc0-89cf68/NLuJxpJxYiah/j48W4X97k4WjCOZvqmUIWDEotKnTBNzl8wMKHY6x.jpg\" alt=\"a young woman in a dress and a cardigan with her red hair covering her face\" />\n\t\t\t<p style=\"padding:10px;\">I dyed my hair last night, and I'm quite happy?with the results! ~also, I just feel really <a href=\"https://pxlmo.com/discover/tags/cute?src=hash\" title=\"#cute\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#cute</a> in this dress. <a href=\"https://pxlmo.com/discover/tags/GenderEuphoria?src=hash\" title=\"#GenderEuphoria\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#GenderEuphoria</a> <a href=\"https://pxlmo.com/discover/tags/HappyPost?src=hash\" title=\"#HappyPost\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#HappyPost</a> <a href=\"https://pxlmo.com/discover/tags/FeltCuteMightDelete?src=hash\" title=\"#FeltCuteMightDelete\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#FeltCuteMightDelete</a></p>\n\t\t\t"
+            },
+            {
+              "guid": "https://pxlmo.com/p/emma/600288525627715122",
+              "title": "my apartment complex is having some work done on the parking lots, and 🤷‍♀️ i guess they forgot to pick up this water bottle before they started",
+              "plainTitle": "my apartment complex is having some work done on the parking lots, and 🤷‍♀️ i guess they forgot to pick up this water bottle before they started",
+              "imageurl": null,
+              "link": "https://pxlmo.com/p/emma/600288525627715122",
+              "description": "my apartment complex is having some work done on the parking lots, and 🤷‍♀️ i guess they forgot to pick up this water bottle before they started",
+              "author": {
+                "name": "emma",
+                "uri": "https://pxlmo.com/emma"
+              },
+              "pubDate": "Thu, 24 Aug 2023 11:32:17 +0000",
+              "createDate": null,
+              "updateDate": "Thu, 24 Aug 2023 11:32:17 +0000",
+              "media:content": [
+                {
+                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/mB8XgqaBvYT9/Y5SV7FjJaNwJrYeudslpIpcs9KyMI2D5ILgaZqjR.jpg",
+                  "media:description": null,
+                  "@type": "image/jpeg",
+                  "@fileSize": null,
+                  "@medium": "image"
+                },
+                {
+                  "@url": "https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/KCBVOeXkgeST/6AkgChQztubcgXsihZh9uaLC7LttzX4VwJ6GxbHZ.jpg",
+                  "media:description": null,
+                  "@type": "image/jpeg",
+                  "@fileSize": null,
+                  "@medium": "image"
+                }
+              ],
+              "content:encoded": "\n\t\t\t<img id=\"rss_item_600288525627715122\" src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/mB8XgqaBvYT9/Y5SV7FjJaNwJrYeudslpIpcs9KyMI2D5ILgaZqjR.jpg\" alt=\"a water bottle is covered in asphalt in a parking lot next to a sidewalk\"> <img src=\"https://assets.pxlmo.com/public/m/_v2/501524934713837928/c51ea9690-856390/KCBVOeXkgeST/6AkgChQztubcgXsihZh9uaLC7LttzX4VwJ6GxbHZ.jpg\" alt=\"null\" />\n\t\t\t<p style=\"padding:10px;\">my apartment complex is having some work done on the parking lots, and 🤷‍♀️ i guess they forgot to pick up this water bottle before they started</p>\n\t\t\t"
+            }
+          ]
+        },
+        "@version": "2.0",
+        "@xmlns:webfeeds": "http://webfeeds.org/rss/1.0",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/"
+      },
+      "manipulate_input": "node ./pixelfed.js",
+      "retain_all_entries": true,
+      "title": "@emma@pxlmo.com",
+      "link": "https://pxlmo.com/emma"
+    },
+    "https://programming.dev/feeds/u/emma.xml?sort=New": {
+      "rss": {
+        "channel": {
+          "title": "programming.dev - emma",
+          "link": "https://programming.dev/u/emma",
+          "item": [
+            {
+              "guid": "https://programming.dev/post/929081",
+              "title": "How Was I Supposed to Know My Roommate Was a Dimension Hopping Witch!? - my submission for Summer Fediverse Jam",
+              "plainTitle": null,
+              "imageurl": null,
+              "link": "https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch",
+              "description": "submitted by <a href=\"https://programming.dev/u/emma\">emma</a> to <a href=\"https://programming.dev/c/play_my_game\">play_my_game</a><br>7 points | <a href=\"https://programming.dev/post/929081\">1 comments</a><br><a href=\"https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch\">https://marmadilemanteater.itch.io/how-was-i-supposed-to-know-my-roommate-was-a-dimension-hopping-witch</a><p>This is a game about being roommates. Awake and face your day along side the person who shares your living space!</p>\n<p><img src=\"https://programming.dev/pictrs/image/ecfc7da5-2802-43b3-82c1-8c6eabedfd56.png\" alt=\"\" /></p>\n",
+              "author": null,
+              "pubDate": "Tue, 25 Jul 2023 12:27:19 +0000",
+              "createDate": null,
+              "updateDate": null,
+              "media:content": null,
+              "content:encoded": null
+            }
+          ]
+        },
+        "@version": "2.0",
+        "@xmlns:webfeeds": null,
+        "@xmlns:media": null,
+        "@xmlns:content": null
+      },
+      "manipulate_input": "",
+      "retain_all_entries": true,
+      "title": "@emma@programming.dev",
+      "link": "https://programming.dev/u/emma"
     }
   },
   "output_one_channel": true,
