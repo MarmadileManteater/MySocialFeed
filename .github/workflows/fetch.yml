@@ -70,6 +70,11 @@ jobs:
       run: |
         node ./sort-db.js
 
+    - name: 💄 Pretty print XML
+      run: |
+        node ./pretty-fee.js
+
+
     - name: 📝 Commit feed.xml back to the repo
       run: |
         git config --global user.name "gh actions bot"

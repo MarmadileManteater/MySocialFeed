@@ -207,6 +207,11 @@ prebuild-install@^7.1.1:
     tar-fs "^2.0.0"
     tunnel-agent "^0.6.0"
 
+prettify-xml@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/prettify-xml/-/prettify-xml-1.2.0.tgz#46dcf1ee8a8d8b73db30b7e06ef26dc9cf3f6f18"
+  integrity sha512-kuoTbmC+QQUfx45PrdkVzJqrNEp2lhK++WGyiqBx6JrCvZUQDgeYjdV3h53n7p+37s1Iwx6GjAQ7fcIgD8kkLQ==
+
 pump@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/pump/-/pump-3.0.0.tgz#b4a2116815bde2f4e1ea602354e8c75565107a64"
