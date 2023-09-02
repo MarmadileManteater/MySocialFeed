@@ -69,10 +69,10 @@ jobs:
     - name: 🔀 Sort db.json 
       run: |
         node ./sort-db.js
-
-    - name: 💄 Pretty print XML
-      run: |
-        node ./pretty-feed.js
+# pretty printing the feed seems to make some of the `content:encoded` elements render weird in rss readers
+    #- name: 💄 Pretty print XML
+    #  run: |
+    #    node ./pretty-feed.js
 
 
     - name: 📝 Commit feed.xml back to the repo
