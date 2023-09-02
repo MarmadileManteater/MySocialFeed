@@ -72,8 +72,7 @@ jobs:
 
     - name: 💄 Pretty print XML
       run: |
-        yarn
-        node ./pretty-fee.js
+        node ./pretty-feed.js
 
 
     - name: 📝 Commit feed.xml back to the repo
