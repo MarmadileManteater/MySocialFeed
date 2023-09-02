@@ -66,6 +66,10 @@ jobs:
       run: |
         ssh -t ${{ secrets.SSH_USER }}@${{ secrets.LINODE_IP_ADDRESS }} 'rm -rf ~/my-social-feed'
     
+    - name: 🔀 Sort db.json 
+      run: |
+        node ./sort-db.js
+
     - name: 📝 Commit feed.xml back to the repo
       run: |
         git config --global user.name "gh actions bot"
