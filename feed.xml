@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Emma &lt;MarmadileManteater&gt;</title><link/><item><guid>https://marmadilemanteater.dev/blog/sveltekit-is-my-jam(stack)</guid><title>SvelteKit is my 🍇Jam!(Stack)</title><plainTitle/><imageurl/><link>https://marmadilemanteater.dev/blog/sveltekit-is-my-jam(stack)</link><description>I guess you could say this is the 🌒end of an era. I guess you could say this is the 🌘beginning of a new one.</description><author><name>Emma &lt;MarmadileManteater&gt;</name><uri>https://marmadilemanteater.dev/blog/</uri></author><pubDate>Sat, 14 Oct 2023 01:26:48 GMT</pubDate><createDate/><updateDate/><media:content/><content:encoded>&lt;root xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Emma &lt;MarmadileManteater&gt;</title><link/><item><guid>https://marmadilemanteater.dev/blog/sveltekit-is-my-jam(stack)</guid><title>SvelteKit is my 🍇Jam!(Stack)</title><plainTitle/><imageurl/><link>https://marmadilemanteater.dev/blog/sveltekit-is-my-jam(stack)</link><description>I guess you could say this is the 🌒end of an era. I guess you could say this is the 🌘beginning of a new one.</description><author><name>Emma &lt;MarmadileManteater&gt;</name><uri>https://marmadilemanteater.dev/blog/</uri></author><pubDate>Fri, 29 Sep 2023 13:44:17 GMT</pubDate><createDate/><updateDate/><media:content/><content:encoded>&lt;root xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
   
   
   
@@ -62,15 +62,15 @@
     &lt;p class=&quot;text-xl&quot;&gt;&lt;em&gt;&lt;strong&gt;(This is real CLIENT SIDE NAVIGATION, done by real JAVASCRIPT FRAMEWORKS)&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
     &lt;div class=&quot;lg:flex pt-4 justify-between pb-4&quot;&gt;
       &lt;div class=&quot;flex flex-col h-[300px]&quot;&gt;
-        &lt;img src=&quot;https://raw.githubusercontent.com/MarmadileManteater/MySocialFeed/development/media/marmadilemanteater.dev/blog/sveltekit-is-my-jam(stack)/loading-circle.png&quot; height=&quot;220&quot; class=&quot;h-[220px] self-center&quot; alt=&quot;a red loading orb is in the middle of a blank screen&quot;/&gt;
+        &lt;img src=&quot;/blog/sveltekit-is-my-jam(stack)/loading-circle.png&quot; height=&quot;220&quot; class=&quot;h-[220px] self-center&quot; alt=&quot;a red loading orb is in the middle of a blank screen&quot;/&gt;
         &lt;p class=&quot;text-red-600 dark:text-red-400 text-center&quot;&gt;Floating orb of nothingness&lt;/p&gt;
       &lt;/div&gt;
       &lt;div class=&quot;flex flex-col pb-4 h-[300px]&quot;&gt;
-        &lt;img src=&quot;https://raw.githubusercontent.com/MarmadileManteater/MySocialFeed/development/media/marmadilemanteater.dev/blog/sveltekit-is-my-jam(stack)/errored-out-page.png&quot; height=&quot;220&quot; class=&quot;h-[220px] self-center&quot; alt=&quot;pages says &apos;loading&apos;, but console says &apos;error&apos;&quot;/&gt;
+        &lt;img src=&quot;/blog/sveltekit-is-my-jam(stack)/errored-out-page.png&quot; height=&quot;220&quot; class=&quot;h-[220px] self-center&quot; alt=&quot;pages says &apos;loading&apos;, but console says &apos;error&apos;&quot;/&gt;
         &lt;p class=&quot;text-red-600 dark:text-red-400 text-center&quot;&gt;Page says &apos;loading&apos;, but is an error&lt;/p&gt;
       &lt;/div&gt;      
       &lt;div class=&quot;flex flex-col pb-4 mb-[50px] md:mb-0 md:h-[300px] justify-center&quot;&gt;
-        &lt;img src=&quot;https://raw.githubusercontent.com/MarmadileManteater/MySocialFeed/development/media/marmadilemanteater.dev/blog/sveltekit-is-my-jam(stack)/2a10dd424edb118bcbd369794e5f117780671a1438facf4341925895b6766b0b.jpg&quot; height=&quot;120&quot; class=&quot;h-[100px] self-center&quot; alt=&quot;a client side javascript error in a search result&quot;/&gt;
+        &lt;img src=&quot;/blog/sveltekit-is-my-jam(stack)/2a10dd424edb118bcbd369794e5f117780671a1438facf4341925895b6766b0b.jpg&quot; height=&quot;120&quot; class=&quot;h-[100px] self-center&quot; alt=&quot;a client side javascript error in a search result&quot;/&gt;
         &lt;p class=&quot;text-red-600 dark:text-red-400 text-center&quot;&gt;????&lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
