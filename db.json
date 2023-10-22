@@ -485,6 +485,28 @@
                 }
               ],
               "content:encoded": null
+            },
+            {
+              "guid": "https://gamemaking.social/@emma/111279899532070077",
+              "title": null,
+              "plainTitle": null,
+              "imageurl": null,
+              "link": "https://gamemaking.social/@emma/111279899532070077",
+              "description": "<p>I went into this year&#39;s 🎃<a href=\"https://gamemaking.social/tags/Spooky2DJam\" class=\"mention hashtag\" rel=\"tag\">#<span>Spooky2DJam</span></a> without knowing for sure if I was going to end up submitting anything. I didn&#39;t stress about it too much, and as a result, I ended up having a ☺great time working on my submission: Out of the Darkness.</p><p>Play on itch.io: <a href=\"https://marmadilemanteater.itch.io/out-of-the-darkness\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">marmadilemanteater.itch.io/out</span><span class=\"invisible\">-of-the-darkness</span></a></p><p>View source on github:<br /><a href=\"https://github.com/MarmadileManteater/OutOfTheDarkness\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/MarmadileManteater/</span><span class=\"invisible\">OutOfTheDarkness</span></a></p>",
+              "author": null,
+              "pubDate": "Sun, 22 Oct 2023 17:41:53 +0000",
+              "createDate": null,
+              "updateDate": null,
+              "media:content": [
+                {
+                  "@url": "https://cdn.masto.host/gamemaking/media_attachments/files/111/279/857/389/408/121/original/b74df48abdea1177.png",
+                  "media:description": "the classic depiction of aliens as little green men except that they are on the news protesting outside of Area 51",
+                  "@type": "image/png",
+                  "@fileSize": "55443",
+                  "@medium": "image"
+                }
+              ],
+              "content:encoded": null
             }
           ]
         },
@@ -543,6 +565,20 @@
               "pubDate": "Sun, 21 Aug 2022 05:10:36 GMT",
               "createDate": "Sun, 21 Aug 2022 05:10:36 GMT",
               "updateDate": "Sun, 28 Aug 2022 22:35:02 GMT",
+              "media:content": null,
+              "content:encoded": null
+            },
+            {
+              "guid": "https://marmadilemanteater.itch.io/out-of-the-darkness",
+              "title": "Out of the Darkness [Free] [Windows]",
+              "plainTitle": "Out of the Darkness",
+              "imageurl": "https://img.itch.zone/aW1nLzEzNzc4ODg1LnBuZw==/315x250%23c/T4UvGB.png",
+              "link": "https://marmadilemanteater.itch.io/out-of-the-darkness",
+              "description": "It is a game about extraterrestrial life, justice and a massive seussian pipe.\n<br/><br/> <img src=\"https://img.itch.zone/aW1nLzEzNzc4ODg1LnBuZw==/315x250%23c/T4UvGB.png\" alt=\"Out of the Darkness\"/>",
+              "author": null,
+              "pubDate": "Sun, 22 Oct 2023 07:22:53 GMT",
+              "createDate": "Sun, 22 Oct 2023 07:22:53 GMT",
+              "updateDate": "Sun, 22 Oct 2023 07:44:00 GMT",
               "media:content": null,
               "content:encoded": null
             }
@@ -630,7 +666,7 @@
               "plainTitle": null,
               "imageurl": null,
               "link": "https://opengameart.org/content/puny-autumn",
-              "description": "<div class=\"field field-name-field-art-type field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Art Type:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_type_tid%5B%5D=9\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">2D Art</a></div></div></div><div class=\"field field-name-field-art-tags field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Tags:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=16x16\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">16x16</a></div><div class=\"field-item odd\"><a href=\"/art-search-advanced?field_art_tags_tid=jrpg\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">jrpg</a></div><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=trees\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">trees</a></div><div class=\"field-item odd\"><a href=\"/art-search-advanced?field_art_tags_tid=autumn\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">autumn</a></div></div></div><div class=\"field field-name-field-art-licenses field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">License(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><div class='license-icon'><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank'><img src='https://opengameart.org/sites/default/files/license_images/cc0.png' alt='' title=''><div class='license-name'>CC0</div></a></div></div></div></div><div class=\"field field-name-field-art-preview field-type-file field-label-above\"><div class=\"field-label\">Preview:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/screenshot-1_5.png\" alt=\"screenshot-1.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/screenshot-1_5.png\" type=\"image/png; length=14447\" data-fid=\"201071\" target=\"_blank\" download=\"screenshot-1.png\">screenshot-1.png</a> 14.4 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-201071\">1</span> download(s)]</span></span></div></div></div><div class=\"field field-name-field-art-files field-type-file field-label-above\"><div class=\"field-label\">File(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/puny-autumn.png\" alt=\"puny-autumn.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/puny-autumn.png\" type=\"image/png; length=44607\" data-fid=\"201298\" target=\"_blank\" download=\"puny-autumn.png\">puny-autumn.png</a> 44.6 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-201298\">23</span> download(s)]</span></span></div></div></div>",
+              "description": "<div class=\"field field-name-field-art-type field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Art Type:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_type_tid%5B%5D=9\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">2D Art</a></div></div></div><div class=\"field field-name-field-art-tags field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">Tags:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=16x16\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">16x16</a></div><div class=\"field-item odd\"><a href=\"/art-search-advanced?field_art_tags_tid=jrpg\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">jrpg</a></div><div class=\"field-item even\"><a href=\"/art-search-advanced?field_art_tags_tid=trees\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">trees</a></div><div class=\"field-item odd\"><a href=\"/art-search-advanced?field_art_tags_tid=autumn\" typeof=\"skos:Concept\" property=\"rdfs:label skos:prefLabel\" datatype=\"\">autumn</a></div></div></div><div class=\"field field-name-field-art-licenses field-type-taxonomy-term-reference field-label-above\"><div class=\"field-label\">License(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><div class='license-icon'><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank'><img src='https://opengameart.org/sites/default/files/license_images/cc0.png' alt='' title=''><div class='license-name'>CC0</div></a></div></div></div></div><div class=\"field field-name-field-art-preview field-type-file field-label-above\"><div class=\"field-label\">Preview:&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/screenshot-1_5.png\" alt=\"screenshot-1.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/screenshot-1_5.png\" type=\"image/png; length=14447\" data-fid=\"201071\" target=\"_blank\" download=\"screenshot-1.png\">screenshot-1.png</a> 14.4 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-201071\">1</span> download(s)]</span></span></div></div></div><div class=\"field field-name-field-art-files field-type-file field-label-above\"><div class=\"field-label\">File(s):&nbsp;</div><div class=\"field-items\"><div class=\"field-item even\"><span class=\"file\"> <img src=\"https://opengameart.org/sites/default/files/puny-autumn.png\" alt=\"puny-autumn.png\" /> <br/> <a href=\"https://opengameart.org/sites/default/files/puny-autumn.png\" type=\"image/png; length=44607\" data-fid=\"201298\" target=\"_blank\" download=\"puny-autumn.png\">puny-autumn.png</a> 44.6 Kb <span class=\"dlcount\">[<span class=\"dlcount-number\" id=\"dlcount-201298\">24</span> download(s)]</span></span></div></div></div>",
               "author": null,
               "pubDate": "Thu, 27 Oct 2022 22:17:21 +0000",
               "createDate": null,
